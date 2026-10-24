@@ -1,0 +1,254 @@
+{
+  "id": "numbers",
+  "title": {
+    "en": "Star Counting",
+    "de": "Sterne zählen",
+    "ru": "Считаем звёзды"
+  },
+  "intro": {
+    "en": "The stars escaped from my pocket! Help me count them.",
+    "de": "Die Sterne sind aus meiner Tasche geflohen! Hilf mir beim Zählen.",
+    "ru": "Звёзды убежали из моего кармана! Помоги мне их посчитать."
+  },
+  "closing": {
+    "en": "All stars are counted. My circuits are very impressed!",
+    "de": "Alle Sterne sind gezählt. Meine Schaltkreise sind beeindruckt!",
+    "ru": "Все звёзды посчитаны. Мои микросхемы впечатлены!"
+  },
+  "rounds": [
+    {
+      "word": "one",
+      "mode": "COUNT",
+      "distractors": [
+        "two",
+        "three",
+        "four"
+      ],
+      "prompt": {
+        "en": "How many stars? Find one.",
+        "de": "Wie viele Sterne? Finde eins.",
+        "ru": "Сколько звёзд? Найди один."
+      },
+      "success": {
+        "en": "Yes! one!",
+        "de": "Ja! eins!",
+        "ru": "Да! один!"
+      },
+      "retry": {
+        "en": "Count slowly and try again.",
+        "de": "Zähl langsam und versuch es noch einmal.",
+        "ru": "Посчитай медленно и попробуй ещё раз."
+      },
+      "joke": {
+        "en": "My calculator is jealous. You counted without buttons!",
+        "de": "Mein Taschenrechner ist neidisch. Du zählst ohne Tasten!",
+        "ru": "Мой калькулятор завидует. Ты считаешь без кнопок!"
+      },
+      "speechPrompt": {
+        "en": "Say: one.",
+        "de": "Sag: eins.",
+        "ru": "Скажи: один."
+      },
+      "speechSuccess": {
+        "en": "Great counting voice!",
+        "de": "Super gezählt!",
+        "ru": "Отлично!"
+      }
+    },
+    {
+      "word": "two",
+      "mode": "COUNT",
+      "distractors": [
+        "one",
+        "three",
+        "four"
+      ],
+      "prompt": {
+        "en": "How many stars? Find two.",
+        "de": "Wie viele Sterne? Finde zwei.",
+        "ru": "Сколько звёзд? Найди два."
+      },
+      "success": {
+        "en": "Yes! two!",
+        "de": "Ja! zwei!",
+        "ru": "Да! два!"
+      },
+      "retry": {
+        "en": "Count slowly and try again.",
+        "de": "Zähl langsam und versuch es noch einmal.",
+        "ru": "Посчитай медленно и попробуй ещё раз."
+      },
+      "joke": {
+        "en": "My calculator is jealous. You counted without buttons!",
+        "de": "Mein Taschenrechner ist neidisch. Du zählst ohne Tasten!",
+        "ru": "Мой калькулятор завидует. Ты считаешь без кнопок!"
+      },
+      "speechPrompt": {
+        "en": "Say: two.",
+        "de": "Sag: zwei.",
+        "ru": "Скажи: два."
+      },
+      "speechSuccess": {
+        "en": "Great counting voice!",
+        "de": "Super gezählt!",
+        "ru": "Отлично!"
+      }
+    },
+    {
+      "word": "three",
+      "mode": "COUNT",
+      "distractors": [
+        "one",
+        "two",
+        "four"
+      ],
+      "prompt": {
+        "en": "How many stars? Find three.",
+        "de": "Wie viele Sterne? Finde drei.",
+        "ru": "Сколько звёзд? Найди три."
+      },
+      "success": {
+        "en": "Yes! three!",
+        "de": "Ja! drei!",
+        "ru": "Да! три!"
+      },
+      "retry": {
+        "en": "Count slowly and try again.",
+        "de": "Zähl langsam und versuch es noch einmal.",
+        "ru": "Посчитай медленно и попробуй ещё раз."
+      },
+      "joke": {
+        "en": "My calculator is jealous. You counted without buttons!",
+        "de": "Mein Taschenrechner ist neidisch. Du zählst ohne Tasten!",
+        "ru": "Мой калькулятор завидует. Ты считаешь без кнопок!"
+      },
+      "speechPrompt": {
+        "en": "Say: three.",
+        "de": "Sag: drei.",
+        "ru": "Скажи: три."
+      },
+      "speechSuccess": {
+        "en": "Great counting voice!",
+        "de": "Super gezählt!",
+        "ru": "Отлично!"
+      }
+    },
+    {
+      "word": "four",
+      "mode": "COUNT",
+      "distractors": [
+        "one",
+        "two",
+        "three"
+      ],
+      "prompt": {
+        "en": "How many stars? Find four.",
+        "de": "Wie viele Sterne? Finde vier.",
+        "ru": "Сколько звёзд? Найди четыре."
+      },
+      "success": {
+        "en": "Yes! four!",
+        "de": "Ja! vier!",
+        "ru": "Да! четыре!"
+      },
+      "retry": {
+        "en": "Count slowly and try again.",
+        "de": "Zähl langsam und versuch es noch einmal.",
+        "ru": "Посчитай медленно и попробуй ещё раз."
+      },
+      "joke": {
+        "en": "My calculator is jealous. You counted without buttons!",
+        "de": "Mein Taschenrechner ist neidisch. Du zählst ohne Tasten!",
+        "ru": "Мой калькулятор завидует. Ты считаешь без кнопок!"
+      },
+      "speechPrompt": {
+        "en": "Say: four.",
+        "de": "Sag: vier.",
+        "ru": "Скажи: четыре."
+      },
+      "speechSuccess": {
+        "en": "Great counting voice!",
+        "de": "Super gezählt!",
+        "ru": "Отлично!"
+      }
+    },
+    {
+      "word": "five",
+      "mode": "COUNT",
+      "distractors": [
+        "one",
+        "two",
+        "three"
+      ],
+      "prompt": {
+        "en": "How many stars? Find five.",
+        "de": "Wie viele Sterne? Finde fünf.",
+        "ru": "Сколько звёзд? Найди пять."
+      },
+      "success": {
+        "en": "Yes! five!",
+        "de": "Ja! fünf!",
+        "ru": "Да! пять!"
+      },
+      "retry": {
+        "en": "Count slowly and try again.",
+        "de": "Zähl langsam und versuch es noch einmal.",
+        "ru": "Посчитай медленно и попробуй ещё раз."
+      },
+      "joke": {
+        "en": "My calculator is jealous. You counted without buttons!",
+        "de": "Mein Taschenrechner ist neidisch. Du zählst ohne Tasten!",
+        "ru": "Мой калькулятор завидует. Ты считаешь без кнопок!"
+      },
+      "speechPrompt": {
+        "en": "Say: five.",
+        "de": "Sag: fünf.",
+        "ru": "Скажи: пять."
+      },
+      "speechSuccess": {
+        "en": "Great counting voice!",
+        "de": "Super gezählt!",
+        "ru": "Отлично!"
+      }
+    },
+    {
+      "word": "six",
+      "mode": "COUNT",
+      "distractors": [
+        "one",
+        "two",
+        "three"
+      ],
+      "prompt": {
+        "en": "How many stars? Find six.",
+        "de": "Wie viele Sterne? Finde sechs.",
+        "ru": "Сколько звёзд? Найди шесть."
+      },
+      "success": {
+        "en": "Yes! six!",
+        "de": "Ja! sechs!",
+        "ru": "Да! шесть!"
+      },
+      "retry": {
+        "en": "Count slowly and try again.",
+        "de": "Zähl langsam und versuch es noch einmal.",
+        "ru": "Посчитай медленно и попробуй ещё раз."
+      },
+      "joke": {
+        "en": "My calculator is jealous. You counted without buttons!",
+        "de": "Mein Taschenrechner ist neidisch. Du zählst ohne Tasten!",
+        "ru": "Мой калькулятор завидует. Ты считаешь без кнопок!"
+      },
+      "speechPrompt": {
+        "en": "Say: six.",
+        "de": "Sag: sechs.",
+        "ru": "Скажи: шесть."
+      },
+      "speechSuccess": {
+        "en": "Great counting voice!",
+        "de": "Super gezählt!",
+        "ru": "Отлично!"
+      }
+    }
+  ]
+}

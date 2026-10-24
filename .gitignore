@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+.voice-models/
+app/src/main/assets/vosk/
+app/src/main/assets/voice/
+*.iml

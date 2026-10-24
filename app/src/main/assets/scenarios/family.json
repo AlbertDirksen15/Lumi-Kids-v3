@@ -1,0 +1,254 @@
+{
+  "id": "family",
+  "title": {
+    "en": "Family Memory",
+    "de": "Familien-Memory",
+    "ru": "Семейная память"
+  },
+  "intro": {
+    "en": "Let's play family memory. Look carefully, then find the matching person.",
+    "de": "Wir spielen Familien-Memory. Schau genau hin und finde die gleiche Person.",
+    "ru": "Сыграем в семейную память. Смотри внимательно и найди одинаковых."
+  },
+  "closing": {
+    "en": "You remembered the whole family. Amazing memory!",
+    "de": "Du hast dir die ganze Familie gemerkt. Tolles Gedächtnis!",
+    "ru": "Ты запомнил всю семью. Какая память!"
+  },
+  "rounds": [
+    {
+      "word": "mom",
+      "mode": "MEMORY",
+      "distractors": [
+        "dad",
+        "grandma",
+        "sister"
+      ],
+      "prompt": {
+        "en": "Find mom.",
+        "de": "Finde Mama.",
+        "ru": "Найди маму."
+      },
+      "success": {
+        "en": "Yes! Mom!",
+        "de": "Ja! Mama!",
+        "ru": "Да! Мама!"
+      },
+      "retry": {
+        "en": "Not a pair yet. Look carefully.",
+        "de": "Noch kein Paar. Schau genau hin.",
+        "ru": "Пока не пара. Смотри внимательно."
+      },
+      "joke": {
+        "en": "My memory is a computer. Yours is giving it competition!",
+        "de": "Mein Gedächtnis ist ein Computer. Deins macht ihm Konkurrenz!",
+        "ru": "Моя память — компьютер. Но твоя уже с ней соревнуется!"
+      },
+      "speechPrompt": {
+        "en": "Say: mom.",
+        "de": "Sag: Mama.",
+        "ru": "Скажи: мама."
+      },
+      "speechSuccess": {
+        "en": "Perfect family word!",
+        "de": "Perfekt gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "dad",
+      "mode": "MEMORY",
+      "distractors": [
+        "mom",
+        "grandpa",
+        "brother"
+      ],
+      "prompt": {
+        "en": "Find dad.",
+        "de": "Finde Papa.",
+        "ru": "Найди папу."
+      },
+      "success": {
+        "en": "Yes! Dad!",
+        "de": "Ja! Papa!",
+        "ru": "Да! Папа!"
+      },
+      "retry": {
+        "en": "Not a pair yet. Look carefully.",
+        "de": "Noch kein Paar. Schau genau hin.",
+        "ru": "Пока не пара. Смотри внимательно."
+      },
+      "joke": {
+        "en": "My memory is a computer. Yours is giving it competition!",
+        "de": "Mein Gedächtnis ist ein Computer. Deins macht ihm Konkurrenz!",
+        "ru": "Моя память — компьютер. Но твоя уже с ней соревнуется!"
+      },
+      "speechPrompt": {
+        "en": "Say: dad.",
+        "de": "Sag: Papa.",
+        "ru": "Скажи: папа."
+      },
+      "speechSuccess": {
+        "en": "Perfect family word!",
+        "de": "Perfekt gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "grandma",
+      "mode": "MEMORY",
+      "distractors": [
+        "mom",
+        "sister",
+        "grandpa"
+      ],
+      "prompt": {
+        "en": "Find grandma.",
+        "de": "Finde Oma.",
+        "ru": "Найди бабушку."
+      },
+      "success": {
+        "en": "Grandma! Great memory!",
+        "de": "Oma! Tolles Gedächtnis!",
+        "ru": "Бабушка! Отличная память!"
+      },
+      "retry": {
+        "en": "Not a pair yet. Look carefully.",
+        "de": "Noch kein Paar. Schau genau hin.",
+        "ru": "Пока не пара. Смотри внимательно."
+      },
+      "joke": {
+        "en": "My memory is a computer. Yours is giving it competition!",
+        "de": "Mein Gedächtnis ist ein Computer. Deins macht ihm Konkurrenz!",
+        "ru": "Моя память — компьютер. Но твоя уже с ней соревнуется!"
+      },
+      "speechPrompt": {
+        "en": "Say: grandma.",
+        "de": "Sag: Oma.",
+        "ru": "Скажи: бабушка."
+      },
+      "speechSuccess": {
+        "en": "Perfect family word!",
+        "de": "Perfekt gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "grandpa",
+      "mode": "MEMORY",
+      "distractors": [
+        "dad",
+        "brother",
+        "grandma"
+      ],
+      "prompt": {
+        "en": "Find grandpa.",
+        "de": "Finde Opa.",
+        "ru": "Найди дедушку."
+      },
+      "success": {
+        "en": "Grandpa! You remembered!",
+        "de": "Opa! Du hast es gewusst!",
+        "ru": "Дедушка! Ты запомнил!"
+      },
+      "retry": {
+        "en": "Not a pair yet. Look carefully.",
+        "de": "Noch kein Paar. Schau genau hin.",
+        "ru": "Пока не пара. Смотри внимательно."
+      },
+      "joke": {
+        "en": "My memory is a computer. Yours is giving it competition!",
+        "de": "Mein Gedächtnis ist ein Computer. Deins macht ihm Konkurrenz!",
+        "ru": "Моя память — компьютер. Но твоя уже с ней соревнуется!"
+      },
+      "speechPrompt": {
+        "en": "Say: grandpa.",
+        "de": "Sag: Opa.",
+        "ru": "Скажи: дедушка."
+      },
+      "speechSuccess": {
+        "en": "Perfect family word!",
+        "de": "Perfekt gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "sister",
+      "mode": "MEMORY",
+      "distractors": [
+        "brother",
+        "mom",
+        "grandma"
+      ],
+      "prompt": {
+        "en": "Find sister.",
+        "de": "Finde die Schwester.",
+        "ru": "Найди сестру."
+      },
+      "success": {
+        "en": "Sister! Nice!",
+        "de": "Schwester! Super!",
+        "ru": "Сестра! Здорово!"
+      },
+      "retry": {
+        "en": "Not a pair yet. Look carefully.",
+        "de": "Noch kein Paar. Schau genau hin.",
+        "ru": "Пока не пара. Смотри внимательно."
+      },
+      "joke": {
+        "en": "My memory is a computer. Yours is giving it competition!",
+        "de": "Mein Gedächtnis ist ein Computer. Deins macht ihm Konkurrenz!",
+        "ru": "Моя память — компьютер. Но твоя уже с ней соревнуется!"
+      },
+      "speechPrompt": {
+        "en": "Say: sister.",
+        "de": "Sag: Schwester.",
+        "ru": "Скажи: сестра."
+      },
+      "speechSuccess": {
+        "en": "Perfect family word!",
+        "de": "Perfekt gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "brother",
+      "mode": "PUZZLE",
+      "distractors": [
+        "sister",
+        "dad",
+        "grandpa"
+      ],
+      "prompt": {
+        "en": "Find brother.",
+        "de": "Finde den Bruder.",
+        "ru": "Найди брата."
+      },
+      "success": {
+        "en": "Brother! Excellent!",
+        "de": "Bruder! Klasse!",
+        "ru": "Брат! Отлично!"
+      },
+      "retry": {
+        "en": "Not a pair yet. Look carefully.",
+        "de": "Noch kein Paar. Schau genau hin.",
+        "ru": "Пока не пара. Смотри внимательно."
+      },
+      "joke": {
+        "en": "My memory is a computer. Yours is giving it competition!",
+        "de": "Mein Gedächtnis ist ein Computer. Deins macht ihm Konkurrenz!",
+        "ru": "Моя память — компьютер. Но твоя уже с ней соревнуется!"
+      },
+      "speechPrompt": {
+        "en": "Say: brother.",
+        "de": "Sag: Bruder.",
+        "ru": "Скажи: брат."
+      },
+      "speechSuccess": {
+        "en": "Perfect family word!",
+        "de": "Perfekt gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    }
+  ]
+}

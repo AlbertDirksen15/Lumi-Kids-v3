@@ -1,0 +1,1001 @@
+id,en,de,ru,category,emoji
+1,scared,ängstlich,испуганный,core,✨
+2,afternoon,Nachmittag,день,core,✨
+3,angry,wütend,сердитый,core,✨
+4,answer,antworten,отвечать,core,✨
+5,apple,Apfel,яблоко,core,🍎
+6,arm,Arm,рука,core,💪
+7,ask,fragen,спрашивать,core,✨
+8,baby,Baby,малыш,core,✨
+9,back,Rücken,спина,core,✨
+10,bag,Tasche,сумка,core,✨
+11,banana,Banane,банан,core,🍌
+12,bath,Badewanne,ванна,core,✨
+13,bathroom,Badezimmer,ванная,core,✨
+14,beach,Strand,пляж,core,✨
+15,beautiful,schön,красивый,core,✨
+16,bed,Bett,кровать,core,✨
+17,bedroom,Schlafzimmer,спальня,core,✨
+18,bike,Fahrrad,велосипед,core,✨
+19,big,groß,большой,core,✨
+20,bird,Vogel,птица,core,✨
+21,birthday,Geburtstag,день рождения,core,✨
+22,black,schwarz,чёрный,core,⚫
+23,blue,blau,синий,core,🔵
+24,boat,Boot,лодка,core,✨
+25,body,Körper,тело,core,✨
+26,book,Buch,книга,core,✨
+27,bottle,Flasche,бутылка,core,✨
+28,box,Kiste,коробка,core,✨
+29,boy,Junge,мальчик,core,✨
+30,bread,Brot,хлеб,core,🍞
+31,break,Pause,перемена,core,✨
+32,breakfast,Frühstück,завтрак,core,✨
+33,brother,Bruder,брат,core,👦
+34,brown,braun,коричневый,core,✨
+35,build,bauen,строить,core,✨
+36,bus,Bus,автобус,core,✨
+37,butter,Butter,масло,core,✨
+38,cake,Kuchen,торт,core,✨
+39,car,Auto,машина,core,✨
+40,carrot,Karotte,морковь,core,🥕
+41,cat,Katze,кошка,core,🐱
+42,cheese,Käse,сыр,core,🧀
+43,chicken,Huhn,курица,core,✨
+44,kid,Kind,ребёнок,core,✨
+45,chocolate,Schokolade,шоколад,core,✨
+46,choose,wählen,выбирать,core,✨
+47,classroom,Klassenzimmer,класс,core,✨
+48,clean,sauber,чистый,core,✨
+49,climb,klettern,лазать,core,✨
+50,clock,Uhr,часы,core,✨
+51,close,schließen,закрывать,core,✨
+52,coat,Mantel,пальто,core,✨
+53,cold,kalt,холодный,core,✨
+54,color,ausmalen,раскрашивать,core,✨
+55,cook,kochen,готовить,core,✨
+56,cow,Kuh,корова,core,✨
+57,cup,Tasse,чашка,core,✨
+58,cut,schneiden,резать,core,✨
+59,dad,Papa,папа,core,👨
+60,dance,tanzen,танцевать,core,✨
+61,day,Tag,день,core,✨
+62,desk,Schreibtisch,парта,core,✨
+63,different,anders,разный,core,✨
+64,dinner,Abendessen,ужин,core,✨
+65,dirty,schmutzig,грязный,core,✨
+66,doctor,Arzt,врач,core,✨
+67,dog,Hund,собака,core,🐶
+68,door,Tür,дверь,core,✨
+69,draw,zeichnen,рисовать,core,✨
+70,dress,Kleid,платье,core,✨
+71,drink,trinken,пить,core,✨
+72,ear,Ohr,ухо,core,✨
+73,easy,einfach,лёгкий,core,✨
+74,eat,essen,есть,core,✨
+75,egg,Ei,яйцо,core,✨
+76,elephant,Elefant,слон,core,✨
+77,evening,Abend,вечер,core,✨
+78,excited,aufgeregt,взволнованный,core,✨
+79,eye,Auge,глаз,core,✨
+80,face,Gesicht,лицо,core,✨
+81,family,Familie,семья,core,✨
+82,fast,schnell,быстрый,core,✨
+83,find,finden,находить,core,✨
+84,fish,Fisch,рыба,core,✨
+85,floor,Boden,пол,core,✨
+86,flower,Blume,цветок,core,✨
+87,food,Essen,еда,core,✨
+88,foot,Fuß,ступня,core,🦶
+89,forget,vergessen,забывать,core,✨
+90,friend,Freund,друг,core,✨
+91,friendly,freundlich,дружелюбный,core,✨
+92,full,voll,полный,core,✨
+93,funny,lustig,смешной,core,✨
+94,garden,Garten,сад,core,✨
+95,girl,Mädchen,девочка,core,✨
+96,give,geben,давать,core,✨
+97,bye,Tschüss,пока,core,✨
+98,grandpa,Opa,дедушка,core,👴
+99,grandma,Oma,бабушка,core,👵
+100,gray,grau,серый,core,✨
+101,green,grün,зелёный,core,🟢
+102,hair,Haare,волосы,core,✨
+103,hand,Hand,кисть,core,✋
+104,happy,glücklich,счастливый,core,✨
+105,hard,hart,твёрдый,core,✨
+106,hat,Hut,шляпа,core,✨
+107,head,Kopf,голова,core,🙂
+108,healthy,gesund,здоровый,core,✨
+109,hear,hören,слышать,core,✨
+110,help,helfen,помогать,core,✨
+111,home,Zuhause,дом,core,✨
+112,homework,Hausaufgaben,домашнее задание,core,✨
+113,horse,Pferd,лошадь,core,✨
+114,hot,heiß,горячий,core,✨
+115,house,Haus,дом,core,✨
+116,hungry,hungrig,голодный,core,✨
+117,ice,Eis,лёд,core,✨
+118,ice cream,Eis,мороженое,core,✨
+119,island,Insel,остров,core,✨
+120,jacket,Jacke,куртка,core,✨
+121,jeans,Jeans,джинсы,core,✨
+122,juice,Saft,сок,core,✨
+123,key,Schlüssel,ключ,core,✨
+124,kind,lieb,добрый,core,✨
+125,kitchen,Küche,кухня,core,✨
+126,laugh,lachen,смеяться,core,✨
+127,learn,lernen,учить,core,✨
+128,leg,Bein,нога,core,🦵
+129,lesson,Unterricht,урок,core,✨
+130,light,leicht,лёгкий,core,✨
+131,lion,Löwe,лев,core,🦁
+132,listen,zuhören,слушать,core,✨
+133,long,lang,длинный,core,✨
+134,look,schauen,смотреть,core,✨
+135,lose,verlieren,проигрывать,core,✨
+136,lunch,Mittagessen,обед,core,✨
+137,meat,Fleisch,мясо,core,✨
+138,milk,Milch,молоко,core,🥛
+139,month,Monat,месяц,core,✨
+140,morning,Morgen,утро,core,✨
+141,mom,Mama,мама,core,👩
+142,mountain,Berg,гора,core,✨
+143,mouse,Maus,мышь,core,✨
+144,mouth,Mund,рот,core,✨
+145,new,neu,новый,core,✨
+146,night,Nacht,ночь,core,✨
+147,nose,Nase,нос,core,👃
+148,nurse,Pflegekraft,медсестра,core,✨
+149,ocean,Ozean,океан,core,✨
+150,old,alt,старый,core,✨
+151,onion,Zwiebel,лук,core,✨
+152,open,öffnen,открывать,core,✨
+153,orange,Orange,апельсин,core,✨
+154,paint,malen,рисовать красками,core,✨
+155,pants,Hose,брюки,core,✨
+156,paper,Papier,бумага,core,✨
+157,pen,Kugelschreiber,ручка,core,✨
+158,pencil,Bleistift,карандаш,core,✨
+159,pig,Schwein,свинья,core,✨
+160,pink,rosa,розовый,core,✨
+161,plane,Flugzeug,самолёт,core,✨
+162,plant,Pflanze,растение,core,✨
+163,play,spielen,играть,core,✨
+164,point,zeigen,указывать,core,✨
+165,potato,Kartoffel,картофель,core,✨
+166,purple,lila,фиолетовый,core,🟣
+167,put,legen,класть,core,✨
+168,quiet,leise,тихий,core,✨
+169,rain,Regen,дождь,core,✨
+170,read,lesen,читать,core,✨
+171,red,rot,красный,core,🔴
+172,remember,sich erinnern,помнить,core,✨
+173,repeat,wiederholen,повторять,core,✨
+174,rice,Reis,рис,core,✨
+175,right,richtig,правильный,core,✨
+176,river,Fluss,река,core,✨
+177,road,Straße,дорога,core,✨
+178,room,Zimmer,комната,core,✨
+179,run,rennen,бежать,core,✨
+180,sad,traurig,грустный,core,✨
+181,same,gleich,одинаковый,core,✨
+182,sandwich,Sandwich,бутерброд,core,✨
+183,say,sagen,говорить,core,✨
+184,school,Schule,школа,core,✨
+185,see,sehen,видеть,core,✨
+186,share,teilen,делиться,core,✨
+187,sheep,Schaf,овца,core,✨
+188,shirt,Hemd,рубашка,core,✨
+189,shoe,Schuh,туфля,core,✨
+190,short,kurz,короткий,core,✨
+191,show,zeigen,показывать,core,✨
+192,shower,Dusche,душ,core,✨
+193,sick,krank,больной,core,✨
+194,sing,singen,петь,core,✨
+195,sister,Schwester,сестра,core,👧
+196,sit,sitzen,сидеть,core,✨
+197,skirt,Rock,юбка,core,✨
+198,sleep,schlafen,спать,core,✨
+199,slow,langsam,медленный,core,✨
+200,small,klein,маленький,core,✨
+201,snake,Schlange,змея,core,✨
+202,snow,Schnee,снег,core,✨
+203,sorry,Entschuldigung,простите,core,✨
+204,soup,Suppe,суп,core,✨
+205,speak,sprechen,разговаривать,core,✨
+206,spell,buchstabieren,произносить по буквам,core,✨
+207,spring,Frühling,весна,core,✨
+208,stand,stehen,стоять,core,✨
+209,star,Stern,звезда,core,✨
+210,station,Bahnhof,вокзал,core,✨
+211,stop,Haltestelle,остановка,core,✨
+212,student,Schüler,ученик,core,✨
+213,summer,Sommer,лето,core,✨
+214,sun,Sonne,солнце,core,✨
+215,sweater,Pullover,свитер,core,✨
+216,swim,schwimmen,плавать,core,✨
+217,take,nehmen,брать,core,✨
+218,tall,groß,высокий,core,✨
+219,taxi,Taxi,такси,core,✨
+220,teach,beibringen,обучать,core,✨
+221,teacher,Lehrer,учитель,core,✨
+222,thank you,Danke,спасибо,core,✨
+223,thirsty,durstig,хочется пить,core,✨
+224,ticket,Fahrkarte,билет,core,✨
+225,today,heute,сегодня,core,✨
+226,toilet,Toilette,туалет,core,✨
+227,tomato,Tomate,помидор,core,✨
+228,tomorrow,morgen,завтра,core,✨
+229,tooth,Zahn,зуб,core,✨
+230,train,Zug,поезд,core,✨
+231,tree,Baum,дерево,core,✨
+232,truck,Lastwagen,грузовик,core,✨
+233,turn,drehen,поворачивать,core,✨
+234,wait,warten,ждать,core,✨
+235,walk,gehen,идти,core,✨
+236,wall,Wand,стена,core,✨
+237,warm,warm,тёплый,core,✨
+238,wash,waschen,мыть,core,✨
+239,water,Wasser,вода,core,✨
+240,week,Woche,неделя,core,✨
+241,weekend,Wochenende,выходные,core,✨
+242,white,weiß,белый,core,⚪
+243,win,gewinnen,выигрывать,core,✨
+244,window,Fenster,окно,core,✨
+245,winter,Winter,зима,core,✨
+246,write,schreiben,писать,core,✨
+247,wrong,falsch,неправильный,core,✨
+248,year,Jahr,год,core,✨
+249,yellow,gelb,жёлтый,core,🟡
+250,yesterday,gestern,вчера,core,✨
+251,young,jung,молодой,core,✨
+252,hello,Hallo,привет,kids,✨
+253,please,bitte,пожалуйста,kids,✨
+254,yes,ja,да,kids,✨
+255,no,nein,нет,kids,✨
+256,parents,Eltern,родители,kids,✨
+257,firefighter,Feuerwehrmann,пожарный,kids,✨
+258,police officer,Polizist,полицейский,kids,✨
+259,living room,Wohnzimmer,гостиная,kids,✨
+260,hallway,Flur,коридор,kids,✨
+261,balcony,Balkon,балкон,kids,✨
+262,ceiling,Decke,потолок,kids,✨
+263,stairs,Treppe,лестница,kids,✨
+264,shelf,Regal,полка,kids,✨
+265,drawer,Schublade,ящик,kids,✨
+266,cupboard,Schrank,шкаф,kids,✨
+267,fridge,Kühlschrank,холодильник,kids,✨
+268,freezer,Gefrierschrank,морозильник,kids,✨
+269,oven,Backofen,духовка,kids,✨
+270,stove,Herd,плита,kids,✨
+271,sink,Spüle,раковина,kids,✨
+272,towel,Handtuch,полотенце,kids,✨
+273,soap,Seife,мыло,kids,✨
+274,toothbrush,Zahnbürste,зубная щётка,kids,✨
+275,toothpaste,Zahnpasta,зубная паста,kids,✨
+276,comb,Kamm,расчёска,kids,✨
+277,mirror,Spiegel,зеркало,kids,✨
+278,pillow,Kissen,подушка,kids,✨
+279,blanket,Decke,одеяло,kids,✨
+280,lamp,Lampe,лампа,kids,✨
+281,plate,Teller,тарелка,kids,✨
+282,bowl,Schüssel,миска,kids,✨
+283,spoon,Löffel,ложка,kids,✨
+284,fork,Gabel,вилка,kids,✨
+285,pot,Topf,кастрюля,kids,✨
+286,pan,Pfanne,сковорода,kids,✨
+287,notebook,Heft,тетрадь,kids,✨
+288,workbook,Arbeitsheft,рабочая тетрадь,kids,✨
+289,pencil case,Federmäppchen,пенал,kids,✨
+290,crayon,Wachsmalstift,мелок,kids,✨
+291,marker,Filzstift,фломастер,kids,✨
+292,eraser,Radiergummi,ластик,kids,✨
+293,ruler,Lineal,линейка,kids,✨
+294,scissors,Schere,ножницы,kids,✨
+295,glue,Kleber,клей,kids,✨
+296,board,Tafel,доска,kids,✨
+297,chalk,Kreide,мел,kids,✨
+298,backpack,Rucksack,рюкзак,kids,✨
+299,lunchbox,Brotdose,коробка для еды,kids,✨
+300,toy,Spielzeug,игрушка,kids,✨
+301,teddy bear,Teddybär,плюшевый мишка,kids,✨
+302,doll,Puppe,кукла,kids,✨
+303,blocks,Bausteine,кубики,kids,✨
+304,puzzle,Puzzle,пазл,kids,✨
+305,kite,Drachen,воздушный змей,kids,✨
+306,balloon,Luftballon,воздушный шарик,kids,✨
+307,yo-yo,Jo-Jo,йо-йо,kids,✨
+308,robot,Roboter,робот,kids,✨
+309,board game,Brettspiel,настольная игра,kids,✨
+310,card game,Kartenspiel,карточная игра,kids,✨
+311,hide-and-seek,Verstecken,прятки,kids,✨
+312,tag,Fangen,догонялки,kids,✨
+313,playground,Spielplatz,детская площадка,kids,✨
+314,slide,Rutsche,горка,kids,✨
+315,swing,Schaukel,качели,kids,✨
+316,seesaw,Wippe,качели-балансир,kids,✨
+317,sandbox,Sandkasten,песочница,kids,✨
+318,trampoline,Trampolin,батут,kids,✨
+319,puppy,Welpe,щенок,kids,✨
+320,kitten,Kätzchen,котёнок,kids,✨
+321,hamster,Hamster,хомяк,kids,✨
+322,guinea pig,Meerschweinchen,морская свинка,kids,✨
+323,parrot,Papagei,попугай,kids,✨
+324,turtle,Schildkröte,черепаха,kids,✨
+325,frog,Frosch,лягушка,kids,✨
+326,lizard,Eidechse,ящерица,kids,✨
+327,spider,Spinne,паук,kids,✨
+328,butterfly,Schmetterling,бабочка,kids,✨
+329,bee,Biene,пчела,kids,✨
+330,ant,Ameise,муравей,kids,✨
+331,ladybug,Marienkäfer,божья коровка,kids,✨
+332,snail,Schnecke,улитка,kids,✨
+333,worm,Wurm,червяк,kids,✨
+334,dolphin,Delfin,дельфин,kids,✨
+335,whale,Wal,кит,kids,✨
+336,shark,Hai,акула,kids,✨
+337,octopus,Oktopus,осьминог,kids,✨
+338,crab,Krabbe,краб,kids,✨
+339,seal,Robbe,тюлень,kids,✨
+340,penguin,Pinguin,пингвин,kids,✨
+341,owl,Eule,сова,kids,✨
+342,eagle,Adler,орёл,kids,✨
+343,fox,Fuchs,лиса,kids,✨
+344,wolf,Wolf,волк,kids,✨
+345,deer,Hirsch,олень,kids,✨
+346,squirrel,Eichhörnchen,белка,kids,✨
+347,hedgehog,Igel,ёж,kids,✨
+348,raccoon,Waschbär,енот,kids,✨
+349,kangaroo,Känguru,кенгуру,kids,✨
+350,koala,Koala,коала,kids,✨
+351,panda,Panda,панда,kids,✨
+352,crocodile,Krokodil,крокодил,kids,✨
+353,hippo,Nilpferd,бегемот,kids,✨
+354,rhino,Nashorn,носорог,kids,✨
+355,camel,Kamel,верблюд,kids,✨
+356,donkey,Esel,осёл,kids,✨
+357,goat,Ziege,коза,kids,✨
+358,duck,Ente,утка,kids,🦆
+359,rabbit,Kaninchen,кролик,kids,🐰
+360,bear,Bär,медведь,kids,🐻
+361,tiger,Tiger,тигр,kids,✨
+362,monkey,Affe,обезьяна,kids,✨
+363,giraffe,Giraffe,жираф,kids,✨
+364,zebra,Zebra,зебра,kids,✨
+365,pear,Birne,груша,kids,✨
+366,grapes,Trauben,виноград,kids,✨
+367,strawberry,Erdbeere,клубника,kids,✨
+368,blueberry,Blaubeere,черника,kids,✨
+369,raspberry,Himbeere,малина,kids,✨
+370,cherry,Kirsche,вишня,kids,✨
+371,peach,Pfirsich,персик,kids,✨
+372,plum,Pflaume,слива,kids,✨
+373,watermelon,Wassermelone,арбуз,kids,✨
+374,melon,Melone,дыня,kids,✨
+375,lemon,Zitrone,лимон,kids,✨
+376,kiwi,Kiwi,киви,kids,✨
+377,pineapple,Ananas,ананас,kids,✨
+378,cookie,Keks,печенье,kids,✨
+379,candy,Bonbon,конфета,kids,✨
+380,cereal,Müsli,хлопья,kids,✨
+381,porridge,Brei,каша,kids,✨
+382,yogurt,Joghurt,йогурт,kids,✨
+383,jam,Marmelade,варенье,kids,✨
+384,honey,Honig,мёд,kids,✨
+385,sausage,Wurst,колбаса,kids,✨
+386,cucumber,Gurke,огурец,kids,✨
+387,peas,Erbsen,горошек,kids,✨
+388,corn,Mais,кукуруза,kids,✨
+389,lettuce,Salat,салат,kids,✨
+390,cabbage,Kohl,капуста,kids,✨
+391,broccoli,Brokkoli,брокколи,kids,✨
+392,mushroom,Pilz,гриб,kids,✨
+393,pancake,Pfannkuchen,блин,kids,✨
+394,waffle,Waffel,вафля,kids,✨
+395,pasta,Nudeln,макароны,kids,✨
+396,pizza,Pizza,пицца,kids,✨
+397,finger,Finger,палец руки,kids,✨
+398,thumb,Daumen,большой палец руки,kids,✨
+399,toe,Zehe,палец ноги,kids,✨
+400,knee,Knie,колено,kids,✨
+401,elbow,Ellbogen,локоть,kids,✨
+402,shoulder,Schulter,плечо,kids,✨
+403,neck,Hals,шея,kids,✨
+404,tummy,Bauch,живот,kids,✨
+405,chest,Brust,грудь,kids,✨
+406,tongue,Zunge,язык,kids,✨
+407,lips,Lippen,губы,kids,✨
+408,cheek,Wange,щека,kids,✨
+409,chin,Kinn,подбородок,kids,✨
+410,forehead,Stirn,лоб,kids,✨
+411,skin,Haut,кожа,kids,✨
+412,heart,Herz,сердце,kids,✨
+413,T-shirt,T-Shirt,футболка,kids,✨
+414,hoodie,Kapuzenpullover,худи,kids,✨
+415,shorts,Shorts,шорты,kids,✨
+416,pajamas,Schlafanzug,пижама,kids,✨
+417,sock,Socke,носок,kids,✨
+418,boots,Stiefel,сапоги,kids,✨
+419,sneakers,Turnschuhe,кроссовки,kids,✨
+420,sandals,Sandalen,сандалии,kids,✨
+421,cap,Kappe,кепка,kids,✨
+422,gloves,Handschuhe,перчатки,kids,✨
+423,scarf,Schal,шарф,kids,✨
+424,belt,Gürtel,ремень,kids,✨
+425,moon,Mond,луна,kids,✨
+426,sky,Himmel,небо,kids,✨
+427,cloud,Wolke,облако,kids,✨
+428,wind,Wind,ветер,kids,✨
+429,rainbow,Regenbogen,радуга,kids,✨
+430,storm,Sturm,буря,kids,✨
+431,thunder,Donner,гром,kids,✨
+432,lightning,Blitz,молния,kids,✨
+433,fog,Nebel,туман,kids,✨
+434,puddle,Pfütze,лужа,kids,✨
+435,mud,Schlamm,грязь,kids,✨
+436,stone,Stein,камень,kids,✨
+437,sand,Sand,песок,kids,✨
+438,hill,Hügel,холм,kids,✨
+439,field,Feld,поле,kids,✨
+440,meadow,Wiese,луг,kids,✨
+441,grass,Gras,трава,kids,✨
+442,leaf,Blatt,лист,kids,✨
+443,branch,Ast,ветка,kids,✨
+444,seed,Samen,семя,kids,✨
+445,bush,Busch,куст,kids,✨
+446,forest,Wald,лес,kids,✨
+447,lake,See,озеро,kids,✨
+448,sea,Meer,море,kids,✨
+449,scooter,Roller,самокат,kids,✨
+450,skateboard,Skateboard,скейтборд,kids,✨
+451,roller skates,Rollschuhe,ролики,kids,✨
+452,helicopter,Hubschrauber,вертолёт,kids,✨
+453,rocket,Rakete,ракета,kids,✨
+454,ship,Schiff,корабль,kids,✨
+455,ferry,Fähre,паром,kids,✨
+456,tram,Straßenbahn,трамвай,kids,✨
+457,subway,U-Bahn,метро,kids,✨
+458,tractor,Traktor,трактор,kids,✨
+459,ambulance,Krankenwagen,скорая помощь,kids,✨
+460,fire truck,Feuerwehrauto,пожарная машина,kids,✨
+461,police car,Polizeiauto,полицейская машина,kids,✨
+462,traffic light,Ampel,светофор,kids,✨
+463,crosswalk,Zebrastreifen,пешеходный переход,kids,✨
+464,jump,springen,прыгать,kids,✨
+465,crawl,krabbeln,ползать,kids,✨
+466,wake up,aufwachen,просыпаться,kids,✨
+467,brush,bürsten,чистить,kids,✨
+468,dress yourself,sich anziehen,одеваться,kids,✨
+469,bake,backen,печь,kids,✨
+470,mix,mischen,смешивать,kids,✨
+471,pour,gießen,наливать,kids,✨
+472,smile,lächeln,улыбаться,kids,✨
+473,cry,weinen,плакать,kids,✨
+474,clap,klatschen,хлопать,kids,✨
+475,wave,winken,махать,kids,✨
+476,hug,umarmen,обнимать,kids,✨
+477,throw,werfen,бросать,kids,✨
+478,catch,fangen,ловить,kids,✨
+479,kick,treten,пинать,kids,✨
+480,push,schieben,толкать,kids,✨
+481,pull,ziehen,тянуть,kids,✨
+482,count,zählen,считать,kids,✨
+483,hide,verstecken,прятать,kids,✨
+484,hurry,sich beeilen,торопиться,kids,✨
+485,tidy up,aufräumen,убирать,kids,✨
+486,touch,berühren,трогать,kids,✨
+487,surprised,überrascht,удивлённый,kids,✨
+488,sleepy,schläfrig,сонный,kids,✨
+489,brave,mutig,смелый,kids,✨
+490,careful,vorsichtig,осторожный,kids,✨
+491,noisy,laut,шумный,kids,✨
+492,wet,nass,мокрый,kids,✨
+493,dry,trocken,сухой,kids,✨
+494,empty,leer,пустой,kids,✨
+495,soft,weich,мягкий,kids,✨
+496,heavy,schwer,тяжёлый,kids,✨
+497,sweet,süß,сладкий,kids,✨
+498,sour,sauer,кислый,kids,✨
+499,salty,salzig,солёный,kids,✨
+500,round,rund,круглый,kids,✨
+501,square,quadratisch,квадратный,kids,✨
+502,orange color,orange,оранжевый,kids,✨
+503,one,eins,один,kids,1️⃣
+504,two,zwei,два,kids,2️⃣
+505,three,drei,три,kids,3️⃣
+506,four,vier,четыре,kids,4️⃣
+507,five,fünf,пять,kids,5️⃣
+508,six,sechs,шесть,kids,6️⃣
+509,seven,sieben,семь,kids,✨
+510,eight,acht,восемь,kids,✨
+511,nine,neun,девять,kids,✨
+512,ten,zehn,десять,kids,✨
+513,eleven,elf,одиннадцать,kids,✨
+514,twelve,zwölf,двенадцать,kids,✨
+515,thirteen,dreizehn,тринадцать,kids,✨
+516,airplane,Flugzeug,самолёт,kids,✨
+517,airport,Flughafen,аэропорт,kids,✨
+518,apron,Schürze,фартук,kids,✨
+519,armchair,Sessel,кресло,kids,✨
+520,attic,Dachboden,чердак,kids,✨
+521,basement,Keller,подвал,kids,✨
+522,basket,Korb,корзина,kids,✨
+523,bathtub,Badewanne,ванна,kids,✨
+524,bench,Bank,скамейка,kids,✨
+525,blinds,Jalousie,жалюзи,kids,✨
+526,bookshelf,Bücherregal,книжная полка,kids,✨
+527,broom,Besen,метла,kids,✨
+528,bucket,Eimer,ведро,kids,✨
+529,carpet,Teppich,ковёр,kids,✨
+530,chair,Stuhl,стул,kids,✨
+531,closet,Kleiderschrank,шкаф для одежды,kids,✨
+532,coffee table,Couchtisch,журнальный столик,kids,✨
+533,curtain,Vorhang,занавеска,kids,✨
+534,dishwasher,Spülmaschine,посудомоечная машина,kids,✨
+535,doorbell,Türklingel,дверной звонок,kids,✨
+536,dustbin,Mülleimer,мусорное ведро,kids,✨
+537,faucet,Wasserhahn,кран,kids,✨
+538,fence,Zaun,забор,kids,✨
+539,garage,Garage,гараж,kids,✨
+540,hairbrush,Haarbürste,щётка для волос,kids,✨
+541,hanger,Kleiderbügel,вешалка,kids,✨
+542,kettle,Wasserkocher,чайник,kids,✨
+543,mattress,Matratze,матрас,kids,✨
+544,microwave,Mikrowelle,микроволновка,kids,✨
+545,mop,Wischmopp,швабра,kids,✨
+546,pillowcase,Kissenbezug,наволочка,kids,✨
+547,plug,Stecker,вилка,kids,✨
+548,radiator,Heizung,батарея,kids,✨
+549,remote control,Fernbedienung,пульт,kids,✨
+550,roof,Dach,крыша,kids,✨
+551,rug,Teppich,коврик,kids,✨
+552,sheet,Bettlaken,простыня,kids,✨
+553,sofa,Sofa,диван,kids,✨
+554,switch,Schalter,выключатель,kids,✨
+555,table,Tisch,стол,kids,✨
+556,trash,Müll,мусор,kids,✨
+557,vacuum cleaner,Staubsauger,пылесос,kids,✨
+558,washing machine,Waschmaschine,стиральная машина,kids,✨
+559,watering can,Gießkanne,лейка,kids,✨
+560,yard,Hof,двор,kids,✨
+561,alarm clock,Wecker,будильник,kids,✨
+562,calendar,Kalender,календарь,kids,✨
+563,fan,Ventilator,вентилятор,kids,✨
+564,flashlight,Taschenlampe,фонарик,kids,✨
+565,iron,Bügeleisen,утюг,kids,✨
+566,basketball,Basketball,баскетбол,kids,✨
+567,badminton,Badminton,бадминтон,kids,✨
+568,baseball,Baseball,бейсбол,kids,✨
+569,bowling,Bowling,боулинг,kids,✨
+570,ball,Ball,мяч,toys,⚽
+571,cycling,Radfahren,езда на велосипеде,kids,✨
+572,football,Fußball,футбол,kids,✨
+573,gymnastics,Gymnastik,гимнастика,kids,✨
+574,hockey,Hockey,хоккей,kids,✨
+575,sound,Ton,звук,school,🔊
+576,page,Seite,страница,school,📄
+577,running,Laufen,бег,kids,✨
+578,skating,Schlittschuhlaufen,катание на коньках,kids,✨
+579,skiing,Skifahren,катание на лыжах,kids,✨
+580,soccer,Fußball,футбол,kids,✨
+581,table tennis,Tischtennis,настольный теннис,kids,✨
+582,tennis,Tennis,теннис,kids,✨
+583,volleyball,Volleyball,волейбол,kids,✨
+584,coach,Trainer,тренер,kids,✨
+585,goal,Tor,ворота,kids,✨
+586,helmet,Helm,шлем,kids,✨
+587,medal,Medaille,медаль,kids,✨
+588,player,Spieler,игрок,kids,✨
+589,race,Rennen,гонка,kids,✨
+590,score,Punktestand,счёт,kids,✨
+591,team,Mannschaft,команда,kids,✨
+592,winner,Gewinner,победитель,kids,✨
+593,whistle,Pfeife,свисток,kids,✨
+594,bat,Schläger,бита,kids,✨
+595,racket,Schläger,ракетка,kids,✨
+596,net,Netz,сетка,kids,✨
+597,pool,Schwimmbecken,бассейн,kids,✨
+598,skis,Skier,лыжи,kids,✨
+599,sled,Schlitten,санки,kids,✨
+600,snowboard,Snowboard,сноуборд,kids,✨
+601,surfboard,Surfbrett,доска для сёрфинга,kids,✨
+602,chess,Schach,шахматы,kids,✨
+603,checkers,Dame,шашки,kids,✨
+604,dominoes,Domino,домино,kids,✨
+605,marbles,Murmeln,шарики,kids,✨
+606,cards,Karten,карты,kids,✨
+607,dice,Würfel,кубик,kids,✨
+608,accordion,Akkordeon,аккордеон,kids,✨
+609,bell,Glocke,колокольчик,kids,✨
+610,cello,Cello,виолончель,kids,✨
+611,drum,Trommel,барабан,kids,✨
+612,flute,Flöte,флейта,kids,✨
+613,guitar,Gitarre,гитара,kids,✨
+614,harmonica,Mundharmonika,губная гармошка,kids,✨
+615,piano,Klavier,пианино,kids,✨
+616,trumpet,Trompete,труба,kids,✨
+617,violin,Geige,скрипка,kids,✨
+618,music,Musik,музыка,kids,✨
+619,song,Lied,песня,kids,✨
+620,melody,Melodie,мелодия,kids,✨
+621,rhythm,Rhythmus,ритм,kids,✨
+622,paintbrush,Pinsel,кисточка,kids,✨
+623,clay,Knete,пластилин,kids,✨
+624,sticker,Aufkleber,наклейка,kids,✨
+625,folder,Ordner,папка,kids,✨
+626,globe,Globus,глобус,kids,✨
+627,calculator,Taschenrechner,калькулятор,kids,✨
+628,computer,Computer,компьютер,kids,✨
+629,keyboard,Tastatur,клавиатура,kids,✨
+630,computer mouse,Computermaus,компьютерная мышь,kids,✨
+631,headphones,Kopfhörer,наушники,kids,✨
+632,microphone,Mikrofon,микрофон,kids,✨
+633,camera,Kamera,камера,kids,✨
+634,tablet,Tablet,планшет,kids,✨
+635,phone,Handy,телефон,kids,✨
+636,charger,Ladegerät,зарядка,kids,✨
+637,screen,Bildschirm,экран,kids,✨
+638,printer,Drucker,принтер,kids,✨
+639,map,Karte,карта,kids,✨
+640,dictionary,Wörterbuch,словарь,kids,✨
+641,alphabet,Alphabet,алфавит,kids,✨
+642,letter,Buchstabe,буква,kids,✨
+643,word,Wort,слово,kids,✨
+644,sentence,Satz,предложение,kids,✨
+645,question,Frage,вопрос,kids,✨
+646,story,Geschichte,рассказ,kids,✨
+647,poem,Gedicht,стихотворение,kids,✨
+648,picture,Bild,картинка,kids,✨
+649,photo,Foto,фотография,kids,✨
+650,number,Zahl,число,kids,✨
+651,shape,Form,форма,kids,✨
+652,circle,Kreis,круг,kids,✨
+653,triangle,Dreieck,треугольник,kids,✨
+654,rectangle,Rechteck,прямоугольник,kids,✨
+655,oval,Oval,овал,kids,✨
+656,line,Linie,линия,kids,✨
+657,dot,Punkt,точка,kids,✨
+658,corner,Ecke,угол,kids,✨
+659,middle,Mitte,середина,kids,✨
+660,side,Seite,сторона,kids,✨
+661,top,oben,верх,kids,✨
+662,bottom,unten,низ,kids,✨
+663,front,Vorderseite,передняя сторона,kids,✨
+664,inside,innen,внутри,kids,✨
+665,outside,draußen,снаружи,kids,✨
+666,above,über,над,kids,✨
+667,below,unter,под,kids,✨
+668,between,zwischen,между,kids,✨
+669,next to,neben,рядом с,kids,✨
+670,opposite,gegenüber,напротив,kids,✨
+671,around,herum,вокруг,kids,✨
+672,through,durch,через,kids,✨
+673,across,über,через,kids,✨
+674,forward,vorwärts,вперёд,kids,✨
+675,backward,rückwärts,назад,kids,✨
+676,straight,geradeaus,прямо,kids,✨
+677,left,links,налево,kids,✨
+678,right side,rechts,направо,kids,✨
+679,near,nah,близко,kids,✨
+680,far,weit,далеко,kids,✨
+681,high,hoch,высоко,kids,✨
+682,low,niedrig,низко,kids,✨
+683,deep,tief,глубокий,kids,✨
+684,shallow,flach,мелкий,kids,✨
+685,wide,breit,широкий,kids,✨
+686,narrow,schmal,узкий,kids,✨
+687,thick,dick,толстый,kids,✨
+688,thin,dünn,тонкий,kids,✨
+689,strong,stark,сильный,kids,✨
+690,weak,schwach,слабый,kids,✨
+691,bright,hell,яркий,kids,✨
+692,dark,dunkel,тёмный,kids,✨
+693,loud,laut,громкий,kids,✨
+694,silent,still,беззвучный,kids,✨
+695,safe,sicher,безопасный,kids,✨
+696,dangerous,gefährlich,опасный,kids,✨
+697,closed,geschlossen,закрытый,kids,✨
+698,broken,kaputt,сломанный,kids,✨
+699,ready,bereit,готовый,kids,✨
+700,busy,beschäftigt,занятый,kids,✨
+701,free,frei,свободный,kids,✨
+702,early,früh,рано,kids,✨
+703,late,spät,поздно,kids,✨
+704,quick,schnell,быстрый,kids,✨
+705,slowly,langsam,медленно,kids,✨
+706,carefully,vorsichtig,осторожно,kids,✨
+707,together,zusammen,вместе,kids,✨
+708,alone,allein,один,kids,✨
+709,again,noch einmal,снова,kids,✨
+710,always,immer,всегда,kids,✨
+711,never,nie,никогда,kids,✨
+712,often,oft,часто,kids,✨
+713,sometimes,manchmal,иногда,kids,✨
+714,usually,meistens,обычно,kids,✨
+715,now,jetzt,сейчас,kids,✨
+716,later,später,позже,kids,✨
+717,soon,bald,скоро,kids,✨
+718,first,erste,первый,kids,✨
+719,second,zweite,второй,kids,✨
+720,third,dritte,третий,kids,✨
+721,last,letzte,последний,kids,✨
+722,next,nächste,следующий,kids,✨
+723,Monday,Montag,понедельник,kids,✨
+724,Tuesday,Dienstag,вторник,kids,✨
+725,Wednesday,Mittwoch,среда,kids,✨
+726,Thursday,Donnerstag,четверг,kids,✨
+727,Friday,Freitag,пятница,kids,✨
+728,Saturday,Samstag,суббота,kids,✨
+729,Sunday,Sonntag,воскресенье,kids,✨
+730,January,Januar,январь,kids,✨
+731,February,Februar,февраль,kids,✨
+732,March,März,март,kids,✨
+733,April,April,апрель,kids,✨
+734,May,Mai,май,kids,✨
+735,June,Juni,июнь,kids,✨
+736,July,Juli,июль,kids,✨
+737,August,August,август,kids,✨
+738,September,September,сентябрь,kids,✨
+739,October,Oktober,октябрь,kids,✨
+740,November,November,ноябрь,kids,✨
+741,December,Dezember,декабрь,kids,✨
+742,minute,Minute,минута,kids,✨
+743,hour,Stunde,час,kids,✨
+744,noon,Mittag,полдень,kids,✨
+745,midnight,Mitternacht,полночь,kids,✨
+746,clock time,Uhrzeit,время на часах,kids,✨
+747,before,vor,до,kids,✨
+748,after,nach,после,kids,✨
+749,during,während,во время,kids,✨
+750,apricot,Aprikose,абрикос,kids,✨
+751,blackberry,Brombeere,ежевика,kids,✨
+752,coconut,Kokosnuss,кокос,kids,✨
+753,fig,Feige,инжир,kids,✨
+754,grapefruit,Grapefruit,грейпфрут,kids,✨
+755,mango,Mango,манго,kids,✨
+756,nectarine,Nektarine,нектарин,kids,✨
+757,pomegranate,Granatapfel,гранат,kids,✨
+758,pumpkin,Kürbis,тыква,kids,✨
+759,beetroot,Rote Bete,свёкла,kids,✨
+760,cauliflower,Blumenkohl,цветная капуста,kids,✨
+761,celery,Sellerie,сельдерей,kids,✨
+762,garlic,Knoblauch,чеснок,kids,✨
+763,pepper,Paprika,перец,kids,✨
+764,radish,Radieschen,редис,kids,✨
+765,spinach,Spinat,шпинат,kids,✨
+766,beans,Bohnen,фасоль,kids,✨
+767,lentils,Linsen,чечевица,kids,✨
+768,flour,Mehl,мука,kids,✨
+769,sugar,Zucker,сахар,kids,✨
+770,salt,Salz,соль,kids,✨
+771,oil,Öl,масло,kids,✨
+772,vinegar,Essig,уксус,kids,✨
+773,ketchup,Ketchup,кетчуп,kids,✨
+774,mustard,Senf,горчица,kids,✨
+775,mayonnaise,Mayonnaise,майонез,kids,✨
+776,cream,Sahne,сливки,kids,✨
+777,cottage cheese,Quark,творог,kids,✨
+778,ham,Schinken,ветчина,kids,✨
+779,chicken meat,Hähnchenfleisch,куриное мясо,kids,✨
+780,beef,Rindfleisch,говядина,kids,✨
+781,fish fillet,Fischfilet,рыбное филе,kids,✨
+782,noodles,Nudeln,лапша,kids,✨
+783,dumpling,Teigtasche,пельмень,kids,✨
+784,bread roll,Brötchen,булочка,kids,✨
+785,toast,Toast,тост,kids,✨
+786,cracker,Cracker,крекер,kids,✨
+787,doughnut,Donut,пончик,kids,✨
+788,muffin,Muffin,маффин,kids,✨
+789,pie,Kuchen,пирог,kids,✨
+790,popcorn,Popcorn,попкорн,kids,✨
+791,chips,Chips,чипсы,kids,✨
+792,raisins,Rosinen,изюм,kids,✨
+793,nuts,Nüsse,орехи,kids,✨
+794,peanuts,Erdnüsse,арахис,kids,✨
+795,breakfast cereal,Frühstücksflocken,сухой завтрак,kids,✨
+796,tea,Tee,чай,kids,✨
+797,cocoa,Kakao,какао,kids,✨
+798,lemonade,Limonade,лимонад,kids,✨
+799,straw,Strohhalm,трубочка,kids,✨
+800,napkin,Serviette,салфетка,kids,✨
+801,lunch tray,Tablett,поднос,kids,✨
+802,rooster,Hahn,петух,kids,✨
+803,hen,Henne,курица,kids,✨
+804,chick,Küken,цыплёнок,kids,✨
+805,turkey,Truthahn,индюк,kids,✨
+806,goose,Gans,гусь,kids,✨
+807,swan,Schwan,лебедь,kids,✨
+808,peacock,Pfau,павлин,kids,✨
+809,sparrow,Spatz,воробей,kids,✨
+810,crow,Krähe,ворона,kids,✨
+811,raven,Rabe,ворон,kids,✨
+812,seagull,Möwe,чайка,kids,✨
+813,stork,Storch,аист,kids,✨
+814,woodpecker,Specht,дятел,kids,✨
+815,flamingo,Flamingo,фламинго,kids,✨
+816,pelican,Pelikan,пеликан,kids,✨
+817,lamb,Lamm,ягнёнок,kids,✨
+818,calf,Kalb,телёнок,kids,✨
+819,foal,Fohlen,жеребёнок,kids,✨
+820,pony,Pony,пони,kids,✨
+821,reindeer,Rentier,северный олень,kids,✨
+822,moose,Elch,лось,kids,✨
+823,boar,Wildschwein,кабан,kids,✨
+824,mole,Maulwurf,крот,kids,✨
+825,otter,Otter,выдра,kids,✨
+826,beaver,Biber,бобр,kids,✨
+827,skunk,Stinktier,скунс,kids,✨
+828,polar bear,Eisbär,белый медведь,kids,✨
+829,gorilla,Gorilla,горилла,kids,✨
+830,chimpanzee,Schimpanse,шимпанзе,kids,✨
+831,leopard,Leopard,леопард,kids,✨
+832,cheetah,Gepard,гепард,kids,✨
+833,hyena,Hyäne,гиена,kids,✨
+834,jaguar,Jaguar,ягуар,kids,✨
+835,antelope,Antilope,антилопа,kids,✨
+836,buffalo,Büffel,буйвол,kids,✨
+837,llama,Lama,лама,kids,✨
+838,alpaca,Alpaka,альпака,kids,✨
+839,caterpillar,Raupe,гусеница,kids,✨
+840,grasshopper,Grashüpfer,кузнечик,kids,✨
+841,dragonfly,Libelle,стрекоза,kids,✨
+842,housefly,Fliege,муха,kids,✨
+843,mosquito,Mücke,комар,kids,✨
+844,beetle,Käfer,жук,kids,✨
+845,wasp,Wespe,оса,kids,✨
+846,firefly,Glühwürmchen,светлячок,kids,✨
+847,clam,Muschel,моллюск,kids,✨
+848,jellyfish,Qualle,медуза,kids,✨
+849,lobster,Hummer,омар,kids,✨
+850,starfish,Seestern,морская звезда,kids,✨
+851,seahorse,Seepferdchen,морской конёк,kids,✨
+852,squid,Tintenfisch,кальмар,kids,✨
+853,shell,Muschel,ракушка,kids,✨
+854,fin,Flosse,плавник,kids,✨
+855,wing,Flügel,крыло,kids,✨
+856,tail,Schwanz,хвост,kids,✨
+857,paw,Pfote,лапа,kids,✨
+858,hoof,Huf,копыто,kids,✨
+859,feather,Feder,перо,kids,✨
+860,fur,Fell,шерсть,kids,✨
+861,beak,Schnabel,клюв,kids,✨
+862,horn,Horn,рог,kids,✨
+863,ankle,Knöchel,лодыжка,kids,✨
+864,wrist,Handgelenk,запястье,kids,✨
+865,palm,Handfläche,ладонь,kids,✨
+866,heel,Ferse,пятка,kids,✨
+867,eyebrow,Augenbraue,бровь,kids,✨
+868,eyelash,Wimper,ресница,kids,✨
+869,ear lobe,Ohrläppchen,мочка уха,kids,✨
+870,nostril,Nasenloch,ноздря,kids,✨
+871,gum,Zahnfleisch,десна,kids,✨
+872,throat,Kehle,горло,kids,✨
+873,waist,Taille,талия,kids,✨
+874,hip,Hüfte,бедро,kids,✨
+875,brain,Gehirn,мозг,kids,✨
+876,lungs,Lunge,лёгкие,kids,✨
+877,stomach,Magen,желудок,kids,✨
+878,blood,Blut,кровь,kids,✨
+879,bone,Knochen,кость,kids,✨
+880,muscle,Muskel,мышца,kids,✨
+881,bandage,Verband,бинт,kids,✨
+882,medicine,Medizin,лекарство,kids,✨
+883,thermometer,Thermometer,термометр,kids,✨
+884,fever,Fieber,температура,kids,✨
+885,cough,Husten,кашель,kids,✨
+886,cold illness,Erkältung,простуда,kids,✨
+887,headache,Kopfschmerzen,головная боль,kids,✨
+888,tummy ache,Bauchschmerzen,боль в животе,kids,✨
+889,hurt,wehtun,болеть,kids,✨
+890,better,besser,лучше,kids,✨
+891,worse,schlimmer,хуже,kids,✨
+892,hospital,Krankenhaus,больница,kids,✨
+893,pharmacy,Apotheke,аптека,kids,✨
+894,clinic,Klinik,клиника,kids,✨
+895,band-aid,Pflaster,пластырь,kids,✨
+896,wheelchair,Rollstuhl,инвалидная коляска,kids,✨
+897,crutches,Krücken,костыли,kids,✨
+898,sunglasses,Sonnenbrille,солнечные очки,kids,✨
+899,glasses,Brille,очки,kids,✨
+900,watch,Armbanduhr,наручные часы,kids,✨
+901,necklace,Halskette,ожерелье,kids,✨
+902,bracelet,Armband,браслет,kids,✨
+903,ring,Ring,кольцо,kids,✨
+904,umbrella,Regenschirm,зонт,kids,✨
+905,raincoat,Regenmantel,дождевик,kids,✨
+906,slippers,Hausschuhe,тапочки,kids,✨
+907,vest,Weste,жилет,kids,✨
+908,blouse,Bluse,блузка,kids,✨
+909,suit,Anzug,костюм,kids,✨
+910,uniform,Uniform,форма,kids,✨
+911,pocket,Tasche,карман,kids,✨
+912,button,Knopf,пуговица,kids,✨
+913,zipper,Reißverschluss,молния,kids,✨
+914,shoelace,Schnürsenkel,шнурок,kids,✨
+915,size,Größe,размер,kids,✨
+916,bakery,Bäckerei,пекарня,kids,✨
+917,bookstore,Buchhandlung,книжный магазин,kids,✨
+918,cinema,Kino,кинотеатр,kids,✨
+919,cafe,Café,кафе,kids,✨
+920,restaurant,Restaurant,ресторан,kids,✨
+921,library,Bibliothek,библиотека,kids,✨
+922,museum,Museum,музей,kids,✨
+923,zoo,Zoo,зоопарк,kids,✨
+924,supermarket,Supermarkt,супермаркет,kids,✨
+925,shop,Geschäft,магазин,kids,✨
+926,market,Markt,рынок,kids,✨
+927,post office,Post,почта,kids,✨
+928,fire station,Feuerwache,пожарная часть,kids,✨
+929,police station,Polizeiwache,полицейский участок,kids,✨
+930,train station,Bahnhof,железнодорожный вокзал,kids,✨
+931,bus station,Busbahnhof,автовокзал,kids,✨
+932,harbor,Hafen,порт,kids,✨
+933,bridge,Brücke,мост,kids,✨
+934,tunnel,Tunnel,туннель,kids,✨
+935,sidewalk,Gehweg,тротуар,kids,✨
+936,bus stop,Bushaltestelle,автобусная остановка,kids,✨
+937,school bus,Schulbus,школьный автобус,kids,✨
+938,parking lot,Parkplatz,парковка,kids,✨
+939,traffic,Verkehr,движение,kids,✨
+940,road sign,Verkehrsschild,дорожный знак,kids,✨
+941,crossroad,Kreuzung,перекрёсток,kids,✨
+942,corner street,Straßenecke,угол улицы,kids,✨
+943,city,Stadt,город,kids,✨
+944,town,Kleinstadt,городок,kids,✨
+945,village,Dorf,деревня,kids,✨
+946,country,Land,страна,kids,✨
+947,world,Welt,мир,kids,✨
+948,Earth,Erde,Земля,kids,✨
+949,planet,Planet,планета,kids,✨
+950,space,Weltraum,космос,kids,✨
+951,astronaut,Astronaut,космонавт,kids,✨
+952,spaceship,Raumschiff,космический корабль,kids,✨
+953,comet,Komet,комета,kids,✨
+954,volcano,Vulkan,вулкан,kids,✨
+955,waterfall,Wasserfall,водопад,kids,✨
+956,cave,Höhle,пещера,kids,✨
+957,desert,Wüste,пустыня,kids,✨
+958,jungle,Dschungel,джунгли,kids,✨
+959,valley,Tal,долина,kids,✨
+960,cliff,Klippe,утёс,kids,✨
+961,pond,Teich,пруд,kids,✨
+962,stream,Bach,ручей,kids,✨
+963,path,Pfad,тропинка,kids,✨
+964,trail,Weg,тропа,kids,✨
+965,park,Park,парк,kids,✨
+966,picnic,Picknick,пикник,kids,✨
+967,tent,Zelt,палатка,kids,✨
+968,campfire,Lagerfeuer,костёр,kids,✨
+969,camping,Camping,поход,kids,✨
+970,backpack trip,Wanderung,поход,kids,✨
+971,binoculars,Fernglas,бинокль,kids,✨
+972,compass,Kompass,компас,kids,✨
+973,wake,aufwachen,просыпаться,kids,✨
+974,get up,aufstehen,вставать,kids,✨
+975,lie down,sich hinlegen,ложиться,kids,✨
+976,rest,sich ausruhen,отдыхать,kids,✨
+977,yawn,gähnen,зевать,kids,✨
+978,stretch,sich strecken,потягиваться,kids,✨
+979,carry,tragen,нести,kids,✨
+980,bring,bringen,приносить,kids,✨
+981,send,schicken,отправлять,kids,✨
+982,call,anrufen,звонить,kids,✨
+983,tell,erzählen,рассказывать,kids,✨
+984,talk,reden,разговаривать,kids,✨
+985,whisper,flüstern,шептать,kids,✨
+986,shout,rufen,кричать,kids,✨
+987,think,denken,думать,kids,✨
+988,know,wissen,знать,kids,✨
+989,understand,verstehen,понимать,kids,✨
+990,dream,träumen,мечтать,kids,✨
+991,work,arbeiten,работать,kids,✨
+992,study,lernen,заниматься,kids,✨
+993,practice,üben,тренироваться,kids,✨
+994,start,anfangen,начинать,kids,✨
+995,finish,beenden,заканчивать,kids,✨
+996,turn on,einschalten,включать,kids,✨
+997,turn off,ausschalten,выключать,kids,✨
+998,pick up,aufheben,поднимать,kids,✨
+999,drop,fallen lassen,ронять,kids,✨
+1000,fall,fallen,падать,kids,✨

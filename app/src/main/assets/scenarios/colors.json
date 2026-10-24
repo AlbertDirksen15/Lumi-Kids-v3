@@ -1,0 +1,254 @@
+{
+  "id": "colors",
+  "title": {
+    "en": "Color Lab",
+    "de": "Farben-Labor",
+    "ru": "Лаборатория цветов"
+  },
+  "intro": {
+    "en": "Welcome to my color lab! Tap the color I say and make the lab glow.",
+    "de": "Willkommen in meinem Farben-Labor! Tippe auf die Farbe, die ich sage.",
+    "ru": "Добро пожаловать в мою лабораторию цветов! Нажимай на цвет, который я назову."
+  },
+  "closing": {
+    "en": "Wow! My lab is glowing like a rainbow.",
+    "de": "Wow! Mein Labor leuchtet wie ein Regenbogen.",
+    "ru": "Ух ты! Лаборатория сияет как радуга."
+  },
+  "rounds": [
+    {
+      "word": "red",
+      "mode": "COLOR_TAP",
+      "distractors": [
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "prompt": {
+        "en": "Tap red!",
+        "de": "Tippe auf Rot!",
+        "ru": "Нажми на красный!"
+      },
+      "success": {
+        "en": "Red! Bright and bold!",
+        "de": "Rot! Hell und kräftig!",
+        "ru": "Красный! Ярко!"
+      },
+      "retry": {
+        "en": "Not that color. Look for red.",
+        "de": "Nicht diese Farbe. Such Rot.",
+        "ru": "Не этот цвет. Ищи красный."
+      },
+      "joke": {
+        "en": "My heart light almost turned tomato-red!",
+        "de": "Mein Herzlicht wäre fast tomatenrot geworden!",
+        "ru": "Моё сердечко чуть не стало помидорно-красным!"
+      },
+      "speechPrompt": {
+        "en": "Say: red.",
+        "de": "Sag: rot.",
+        "ru": "Назови этот цвет."
+      },
+      "speechSuccess": {
+        "en": "Nice color word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично произнесено!"
+      }
+    },
+    {
+      "word": "blue",
+      "mode": "COLOR_TAP",
+      "distractors": [
+        "red",
+        "green",
+        "purple"
+      ],
+      "prompt": {
+        "en": "Find blue!",
+        "de": "Finde Blau!",
+        "ru": "Найди синий!"
+      },
+      "success": {
+        "en": "Blue! Cool choice!",
+        "de": "Blau! Gute Wahl!",
+        "ru": "Синий! Отличный выбор!"
+      },
+      "retry": {
+        "en": "Almost. Find blue like the sky.",
+        "de": "Fast. Such Blau wie der Himmel.",
+        "ru": "Почти. Найди синий, как небо."
+      },
+      "joke": {
+        "en": "Blue is my favorite. Totally not because I am blue.",
+        "de": "Blau ist meine Lieblingsfarbe. Bestimmt nicht, weil ich blau bin.",
+        "ru": "Синий — мой любимый. Совсем не потому, что я сам синий."
+      },
+      "speechPrompt": {
+        "en": "Say: blue.",
+        "de": "Sag: blau.",
+        "ru": "Назови этот цвет."
+      },
+      "speechSuccess": {
+        "en": "Nice color word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично произнесено!"
+      }
+    },
+    {
+      "word": "green",
+      "mode": "COLOR_TAP",
+      "distractors": [
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "prompt": {
+        "en": "Tap green!",
+        "de": "Tippe auf Grün!",
+        "ru": "Нажми на зелёный!"
+      },
+      "success": {
+        "en": "Green! Fresh like grass!",
+        "de": "Grün! Frisch wie Gras!",
+        "ru": "Зелёный! Как травка!"
+      },
+      "retry": {
+        "en": "Try again. Green is the grassy one.",
+        "de": "Nochmal. Grün ist wie Gras.",
+        "ru": "Ещё раз. Зелёный — как травка."
+      },
+      "joke": {
+        "en": "If I were a plant, I would need a charging cable instead of water.",
+        "de": "Als Pflanze bräuchte ich ein Ladekabel statt Wasser.",
+        "ru": "Если бы я был растением, мне нужен был бы провод зарядки вместо воды."
+      },
+      "speechPrompt": {
+        "en": "Say: green.",
+        "de": "Sag: grün.",
+        "ru": "Назови этот цвет."
+      },
+      "speechSuccess": {
+        "en": "Nice color word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично произнесено!"
+      }
+    },
+    {
+      "word": "yellow",
+      "mode": "COLOR_TAP",
+      "distractors": [
+        "purple",
+        "red",
+        "blue"
+      ],
+      "prompt": {
+        "en": "Find yellow!",
+        "de": "Finde Gelb!",
+        "ru": "Найди жёлтый!"
+      },
+      "success": {
+        "en": "Yellow! Sunny!",
+        "de": "Gelb! Sonnig!",
+        "ru": "Жёлтый! Солнечный!"
+      },
+      "retry": {
+        "en": "Not yet. Yellow is like the sun.",
+        "de": "Noch nicht. Gelb ist wie die Sonne.",
+        "ru": "Не то. Жёлтый — как солнышко."
+      },
+      "joke": {
+        "en": "Careful, this color makes me want to wear sunglasses.",
+        "de": "Vorsicht, bei dieser Farbe will ich eine Sonnenbrille tragen.",
+        "ru": "Осторожно, от этого цвета мне хочется надеть солнечные очки."
+      },
+      "speechPrompt": {
+        "en": "Say: yellow.",
+        "de": "Sag: gelb.",
+        "ru": "Назови этот цвет."
+      },
+      "speechSuccess": {
+        "en": "Nice color word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично произнесено!"
+      }
+    },
+    {
+      "word": "purple",
+      "mode": "COLOR_TAP",
+      "distractors": [
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "prompt": {
+        "en": "Tap purple!",
+        "de": "Tippe auf Lila!",
+        "ru": "Нажми на фиолетовый!"
+      },
+      "success": {
+        "en": "Purple! Fancy!",
+        "de": "Lila! Schick!",
+        "ru": "Фиолетовый! Красиво!"
+      },
+      "retry": {
+        "en": "Almost. Look for purple.",
+        "de": "Fast. Such Lila.",
+        "ru": "Почти. Ищи фиолетовый."
+      },
+      "joke": {
+        "en": "Purple makes my antenna feel royal.",
+        "de": "Lila lässt meine Antenne königlich fühlen.",
+        "ru": "От фиолетового моя антенна чувствует себя королевской."
+      },
+      "speechPrompt": {
+        "en": "Say: purple.",
+        "de": "Sag: lila.",
+        "ru": "Назови этот цвет."
+      },
+      "speechSuccess": {
+        "en": "Nice color word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично произнесено!"
+      }
+    },
+    {
+      "word": "black",
+      "mode": "COLOR_TAP",
+      "distractors": [
+        "white",
+        "red",
+        "yellow"
+      ],
+      "prompt": {
+        "en": "Find black!",
+        "de": "Finde Schwarz!",
+        "ru": "Найди чёрный!"
+      },
+      "success": {
+        "en": "Black! You found it!",
+        "de": "Schwarz! Gefunden!",
+        "ru": "Чёрный! Нашёл!"
+      },
+      "retry": {
+        "en": "Try the darkest color.",
+        "de": "Versuch die dunkelste Farbe.",
+        "ru": "Попробуй самый тёмный цвет."
+      },
+      "joke": {
+        "en": "In the dark my glowing heart becomes a tiny flashlight.",
+        "de": "Im Dunkeln wird mein leuchtendes Herz zur Taschenlampe.",
+        "ru": "В темноте моё светящееся сердечко становится фонариком."
+      },
+      "speechPrompt": {
+        "en": "Say: black.",
+        "de": "Sag: schwarz.",
+        "ru": "Назови этот цвет."
+      },
+      "speechSuccess": {
+        "en": "Nice color word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично произнесено!"
+      }
+    }
+  ]
+}

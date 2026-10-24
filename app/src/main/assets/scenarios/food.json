@@ -1,0 +1,254 @@
+{
+  "id": "food",
+  "title": {
+    "en": "Feed Lumi",
+    "de": "Füttere Lumi",
+    "ru": "Покорми Lumi"
+  },
+  "intro": {
+    "en": "My tummy battery is empty! Drag the food I ask for to me.",
+    "de": "Meine Bauch-Batterie ist leer! Zieh das richtige Essen zu mir.",
+    "ru": "Моя батарейка в животе разрядилась! Перетащи ко мне еду, которую я попрошу."
+  },
+  "closing": {
+    "en": "Yum! My tummy battery is full. Thank you, chef!",
+    "de": "Lecker! Meine Bauch-Batterie ist voll. Danke, Küchenchef!",
+    "ru": "Вкусно! Батарейка в животе полная. Спасибо, шеф-повар!"
+  },
+  "rounds": [
+    {
+      "word": "apple",
+      "mode": "DRAG_FEED",
+      "distractors": [
+        "banana",
+        "carrot",
+        "cheese"
+      ],
+      "prompt": {
+        "en": "Feed me the apple!",
+        "de": "Gib mir den Apfel!",
+        "ru": "Дай мне яблоко!"
+      },
+      "success": {
+        "en": "Yum! apple! Thank you!",
+        "de": "Lecker! Apfel! Danke!",
+        "ru": "Вкусно! Яблоко! Спасибо!"
+      },
+      "retry": {
+        "en": "Oops, my tummy asked for something else.",
+        "de": "Hoppla, mein Bauch wollte etwas anderes.",
+        "ru": "Ой, мой животик просил что-то другое."
+      },
+      "joke": {
+        "en": "Robot secret: I do not actually digest food. Please do not tell the toaster.",
+        "de": "Roboter-Geheimnis: Ich verdaue Essen gar nicht. Sag es nicht dem Toaster.",
+        "ru": "Секрет робота: я вообще не перевариваю еду. Только не говори тостеру."
+      },
+      "speechPrompt": {
+        "en": "Say: apple.",
+        "de": "Sag: Apfel.",
+        "ru": "Скажи: яблоко."
+      },
+      "speechSuccess": {
+        "en": "Tasty pronunciation!",
+        "de": "Lecker ausgesprochen!",
+        "ru": "Вкусно произнесено!"
+      }
+    },
+    {
+      "word": "banana",
+      "mode": "DRAG_FEED",
+      "distractors": [
+        "apple",
+        "bread",
+        "carrot"
+      ],
+      "prompt": {
+        "en": "I want the banana!",
+        "de": "Ich möchte die Banane!",
+        "ru": "Хочу банан!"
+      },
+      "success": {
+        "en": "Yum! banana! Thank you!",
+        "de": "Lecker! Banane! Danke!",
+        "ru": "Вкусно! Банан! Спасибо!"
+      },
+      "retry": {
+        "en": "Oops, my tummy asked for something else.",
+        "de": "Hoppla, mein Bauch wollte etwas anderes.",
+        "ru": "Ой, мой животик просил что-то другое."
+      },
+      "joke": {
+        "en": "Robot secret: I do not actually digest food. Please do not tell the toaster.",
+        "de": "Roboter-Geheimnis: Ich verdaue Essen gar nicht. Sag es nicht dem Toaster.",
+        "ru": "Секрет робота: я вообще не перевариваю еду. Только не говори тостеру."
+      },
+      "speechPrompt": {
+        "en": "Say: banana.",
+        "de": "Sag: Banane.",
+        "ru": "Скажи: банан."
+      },
+      "speechSuccess": {
+        "en": "Tasty pronunciation!",
+        "de": "Lecker ausgesprochen!",
+        "ru": "Вкусно произнесено!"
+      }
+    },
+    {
+      "word": "bread",
+      "mode": "DRAG_FEED",
+      "distractors": [
+        "cheese",
+        "apple",
+        "milk"
+      ],
+      "prompt": {
+        "en": "Drag the bread to me!",
+        "de": "Zieh das Brot zu mir!",
+        "ru": "Перетащи ко мне хлеб!"
+      },
+      "success": {
+        "en": "Yum! bread! Thank you!",
+        "de": "Lecker! Brot! Danke!",
+        "ru": "Вкусно! Хлеб! Спасибо!"
+      },
+      "retry": {
+        "en": "Oops, my tummy asked for something else.",
+        "de": "Hoppla, mein Bauch wollte etwas anderes.",
+        "ru": "Ой, мой животик просил что-то другое."
+      },
+      "joke": {
+        "en": "Robot secret: I do not actually digest food. Please do not tell the toaster.",
+        "de": "Roboter-Geheimnis: Ich verdaue Essen gar nicht. Sag es nicht dem Toaster.",
+        "ru": "Секрет робота: я вообще не перевариваю еду. Только не говори тостеру."
+      },
+      "speechPrompt": {
+        "en": "Say: bread.",
+        "de": "Sag: Brot.",
+        "ru": "Скажи: хлеб."
+      },
+      "speechSuccess": {
+        "en": "Tasty pronunciation!",
+        "de": "Lecker ausgesprochen!",
+        "ru": "Вкусно произнесено!"
+      }
+    },
+    {
+      "word": "milk",
+      "mode": "DRAG_FEED",
+      "distractors": [
+        "bread",
+        "banana",
+        "cheese"
+      ],
+      "prompt": {
+        "en": "Can I have the milk?",
+        "de": "Kann ich die Milch haben?",
+        "ru": "Можно мне молоко?"
+      },
+      "success": {
+        "en": "Yum! milk! Thank you!",
+        "de": "Lecker! Milch! Danke!",
+        "ru": "Вкусно! Молоко! Спасибо!"
+      },
+      "retry": {
+        "en": "Oops, my tummy asked for something else.",
+        "de": "Hoppla, mein Bauch wollte etwas anderes.",
+        "ru": "Ой, мой животик просил что-то другое."
+      },
+      "joke": {
+        "en": "Robot secret: I do not actually digest food. Please do not tell the toaster.",
+        "de": "Roboter-Geheimnis: Ich verdaue Essen gar nicht. Sag es nicht dem Toaster.",
+        "ru": "Секрет робота: я вообще не перевариваю еду. Только не говори тостеру."
+      },
+      "speechPrompt": {
+        "en": "Say: milk.",
+        "de": "Sag: Milch.",
+        "ru": "Скажи: молоко."
+      },
+      "speechSuccess": {
+        "en": "Tasty pronunciation!",
+        "de": "Lecker ausgesprochen!",
+        "ru": "Вкусно произнесено!"
+      }
+    },
+    {
+      "word": "carrot",
+      "mode": "DRAG_FEED",
+      "distractors": [
+        "apple",
+        "cheese",
+        "banana"
+      ],
+      "prompt": {
+        "en": "Feed me the carrot!",
+        "de": "Gib mir die Karotte!",
+        "ru": "Дай мне морковь!"
+      },
+      "success": {
+        "en": "Yum! carrot! Thank you!",
+        "de": "Lecker! Karotte! Danke!",
+        "ru": "Вкусно! Морковь! Спасибо!"
+      },
+      "retry": {
+        "en": "Oops, my tummy asked for something else.",
+        "de": "Hoppla, mein Bauch wollte etwas anderes.",
+        "ru": "Ой, мой животик просил что-то другое."
+      },
+      "joke": {
+        "en": "Robot secret: I do not actually digest food. Please do not tell the toaster.",
+        "de": "Roboter-Geheimnis: Ich verdaue Essen gar nicht. Sag es nicht dem Toaster.",
+        "ru": "Секрет робота: я вообще не перевариваю еду. Только не говори тостеру."
+      },
+      "speechPrompt": {
+        "en": "Say: carrot.",
+        "de": "Sag: Karotte.",
+        "ru": "Скажи: морковь."
+      },
+      "speechSuccess": {
+        "en": "Tasty pronunciation!",
+        "de": "Lecker ausgesprochen!",
+        "ru": "Вкусно произнесено!"
+      }
+    },
+    {
+      "word": "cheese",
+      "mode": "DRAG_FEED",
+      "distractors": [
+        "carrot",
+        "bread",
+        "apple"
+      ],
+      "prompt": {
+        "en": "Find the cheese for me!",
+        "de": "Finde den Käse für mich!",
+        "ru": "Найди для меня сыр!"
+      },
+      "success": {
+        "en": "Yum! cheese! Thank you!",
+        "de": "Lecker! Käse! Danke!",
+        "ru": "Вкусно! Сыр! Спасибо!"
+      },
+      "retry": {
+        "en": "Oops, my tummy asked for something else.",
+        "de": "Hoppla, mein Bauch wollte etwas anderes.",
+        "ru": "Ой, мой животик просил что-то другое."
+      },
+      "joke": {
+        "en": "Robot secret: I do not actually digest food. Please do not tell the toaster.",
+        "de": "Roboter-Geheimnis: Ich verdaue Essen gar nicht. Sag es nicht dem Toaster.",
+        "ru": "Секрет робота: я вообще не перевариваю еду. Только не говори тостеру."
+      },
+      "speechPrompt": {
+        "en": "Say: cheese.",
+        "de": "Sag: Käse.",
+        "ru": "Скажи: сыр."
+      },
+      "speechSuccess": {
+        "en": "Tasty pronunciation!",
+        "de": "Lecker ausgesprochen!",
+        "ru": "Вкусно произнесено!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+name: Build Lumi Kids v3 APK
+
+on:
+  push:
+    branches: ['**']
+    paths:
+      - 'app/**'
+      - 'scripts/**'
+      - '*.gradle'
+      - '.github/workflows/build-apk.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set project directory
+        run: echo "PROJECT=." >> "$GITHUB_ENV"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate dictionary and scenarios
+        run: python "$PROJECT/scripts/validate_content.py"
+
+      - name: Cache Vosk mobile models
+        id: cache-vosk
+        uses: actions/cache@v4
+        with:
+          path: app/src/main/assets/vosk
+          key: lumi-v3-vosk-small-en-de-ru-v1
+
+      - name: Fetch Vosk models
+        if: steps.cache-vosk.outputs.cache-hit != 'true'
+        run: "$PROJECT/scripts/fetch_vosk_models.sh"
+
+      - name: Cache bundled voice pack
+        id: cache-voice
+        uses: actions/cache@v4
+        with:
+          path: app/src/main/assets/voice
+          key: lumi-v3-voice-${{ hashFiles('app/src/main/assets/dictionary.csv', 'app/src/main/assets/scenarios/*.json', 'scripts/generate_voice_pack.py') }}
+
+      - name: Install Piper voice builder
+        if: steps.cache-voice.outputs.cache-hit != 'true'
+        run: pip install 'piper-tts==1.8.0'
+
+      - name: Download offline voice models for build
+        if: steps.cache-voice.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p "$PROJECT/.voice-models"
+          base='https://huggingface.co/rhasspy/piper-voices/resolve/main'
+          curl -L --fail --retry 3 "$base/en/en_US/amy/medium/en_US-amy-medium.onnx?download=true" -o "$PROJECT/.voice-models/en_US-amy-medium.onnx"
+          curl -L --fail --retry 3 "$base/en/en_US/amy/medium/en_US-amy-medium.onnx.json?download=true" -o "$PROJECT/.voice-models/en_US-amy-medium.onnx.json"
+          curl -L --fail --retry 3 "$base/de/de_DE/ramona/low/de_DE-ramona-low.onnx?download=true" -o "$PROJECT/.voice-models/de_DE-ramona-low.onnx"
+          curl -L --fail --retry 3 "$base/de/de_DE/ramona/low/de_DE-ramona-low.onnx.json?download=true" -o "$PROJECT/.voice-models/de_DE-ramona-low.onnx.json"
+          curl -L --fail --retry 3 "$base/ru/ru_RU/irina/medium/ru_RU-irina-medium.onnx?download=true" -o "$PROJECT/.voice-models/ru_RU-irina-medium.onnx"
+          curl -L --fail --retry 3 "$base/ru/ru_RU/irina/medium/ru_RU-irina-medium.onnx.json?download=true" -o "$PROJECT/.voice-models/ru_RU-irina-medium.onnx.json"
+
+      - name: Generate bundled friendly voices
+        if: steps.cache-voice.outputs.cache-hit != 'true'
+        run: python "$PROJECT/scripts/generate_voice_pack.py"
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: android-actions/setup-android@v3
+
+      - name: Install Android SDK 35
+        run: yes | sdkmanager "platforms;android-35" "build-tools;35.0.0" >/dev/null
+
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.9'
+
+      - name: Build universal debug APK
+        run: gradle -p "$PROJECT" assembleDebug --stacktrace
+
+      - name: Verify permissions and forbidden dependencies
+        run: |
+          APK="$PROJECT/app/build/outputs/apk/debug/app-debug.apk"
+          aapt dump permissions "$APK" | tee permissions.txt
+          if grep -q 'android.permission.INTERNET' permissions.txt; then echo 'INTERNET permission is forbidden'; exit 1; fi
+          if grep -R -E 'com.google.android.gms|firebase' "$PROJECT/app/src"; then echo 'Google/Firebase dependency found'; exit 1; fi
+          test -f "$APK"
+
+      - name: Rename APK
+        run: cp "$PROJECT/app/build/outputs/apk/debug/app-debug.apk" Lumi-Kids-v3.0-debug.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Lumi-Kids-v3-APK
+          path: Lumi-Kids-v3.0-debug.apk
+          if-no-files-found: error
+          retention-days: 90

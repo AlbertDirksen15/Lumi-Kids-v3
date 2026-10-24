@@ -1,0 +1,254 @@
+{
+  "id": "body",
+  "title": {
+    "en": "Body Detective",
+    "de": "Körper-Detektiv",
+    "ru": "Детектив тела"
+  },
+  "intro": {
+    "en": "Detective time! Tap the body part I say.",
+    "de": "Detektiv-Zeit! Tippe auf den Körperteil, den ich sage.",
+    "ru": "Пора быть детективом! Нажимай на часть тела, которую я назову."
+  },
+  "closing": {
+    "en": "Case solved! You know the body parts.",
+    "de": "Fall gelöst! Du kennst die Körperteile.",
+    "ru": "Дело раскрыто! Ты знаешь части тела."
+  },
+  "rounds": [
+    {
+      "word": "head",
+      "mode": "BODY_TAP",
+      "distractors": [
+        "hand",
+        "leg",
+        "foot"
+      ],
+      "prompt": {
+        "en": "Tap the head!",
+        "de": "Tippe auf den Kopf!",
+        "ru": "Нажми на голову!"
+      },
+      "success": {
+        "en": "Yes! head!",
+        "de": "Ja! Kopf!",
+        "ru": "Да! Голова!"
+      },
+      "retry": {
+        "en": "Almost. Look at the body again.",
+        "de": "Fast. Schau den Körper noch einmal an.",
+        "ru": "Почти. Посмотри на человечка ещё раз."
+      },
+      "joke": {
+        "en": "Good thing robots have spare parts. Children are much more special!",
+        "de": "Gut, dass Roboter Ersatzteile haben. Kinder sind viel besonderer!",
+        "ru": "Хорошо, что у роботов есть запчасти. А дети намного особенные!"
+      },
+      "speechPrompt": {
+        "en": "Say: head.",
+        "de": "Sag: Kopf.",
+        "ru": "Скажи: голова."
+      },
+      "speechSuccess": {
+        "en": "Excellent body word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "hand",
+      "mode": "BODY_TAP",
+      "distractors": [
+        "head",
+        "arm",
+        "foot"
+      ],
+      "prompt": {
+        "en": "Find the hand!",
+        "de": "Finde die Hand!",
+        "ru": "Найди кисть!"
+      },
+      "success": {
+        "en": "Yes! hand!",
+        "de": "Ja! Hand!",
+        "ru": "Да! Кисть!"
+      },
+      "retry": {
+        "en": "Almost. Look at the body again.",
+        "de": "Fast. Schau den Körper noch einmal an.",
+        "ru": "Почти. Посмотри на человечка ещё раз."
+      },
+      "joke": {
+        "en": "Good thing robots have spare parts. Children are much more special!",
+        "de": "Gut, dass Roboter Ersatzteile haben. Kinder sind viel besonderer!",
+        "ru": "Хорошо, что у роботов есть запчасти. А дети намного особенные!"
+      },
+      "speechPrompt": {
+        "en": "Say: hand.",
+        "de": "Sag: Hand.",
+        "ru": "Скажи: кисть."
+      },
+      "speechSuccess": {
+        "en": "Excellent body word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "arm",
+      "mode": "BODY_TAP",
+      "distractors": [
+        "hand",
+        "leg",
+        "head"
+      ],
+      "prompt": {
+        "en": "Tap the arm!",
+        "de": "Tippe auf den Arm!",
+        "ru": "Нажми на руку!"
+      },
+      "success": {
+        "en": "Yes! arm!",
+        "de": "Ja! Arm!",
+        "ru": "Да! Рука!"
+      },
+      "retry": {
+        "en": "Almost. Look at the body again.",
+        "de": "Fast. Schau den Körper noch einmal an.",
+        "ru": "Почти. Посмотри на человечка ещё раз."
+      },
+      "joke": {
+        "en": "Good thing robots have spare parts. Children are much more special!",
+        "de": "Gut, dass Roboter Ersatzteile haben. Kinder sind viel besonderer!",
+        "ru": "Хорошо, что у роботов есть запчасти. А дети намного особенные!"
+      },
+      "speechPrompt": {
+        "en": "Say: arm.",
+        "de": "Sag: Arm.",
+        "ru": "Скажи: рука."
+      },
+      "speechSuccess": {
+        "en": "Excellent body word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "leg",
+      "mode": "BODY_TAP",
+      "distractors": [
+        "arm",
+        "foot",
+        "head"
+      ],
+      "prompt": {
+        "en": "Find the leg!",
+        "de": "Finde das Bein!",
+        "ru": "Найди ногу!"
+      },
+      "success": {
+        "en": "Yes! leg!",
+        "de": "Ja! Bein!",
+        "ru": "Да! Нога!"
+      },
+      "retry": {
+        "en": "Almost. Look at the body again.",
+        "de": "Fast. Schau den Körper noch einmal an.",
+        "ru": "Почти. Посмотри на человечка ещё раз."
+      },
+      "joke": {
+        "en": "Good thing robots have spare parts. Children are much more special!",
+        "de": "Gut, dass Roboter Ersatzteile haben. Kinder sind viel besonderer!",
+        "ru": "Хорошо, что у роботов есть запчасти. А дети намного особенные!"
+      },
+      "speechPrompt": {
+        "en": "Say: leg.",
+        "de": "Sag: Bein.",
+        "ru": "Скажи: нога."
+      },
+      "speechSuccess": {
+        "en": "Excellent body word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "foot",
+      "mode": "BODY_TAP",
+      "distractors": [
+        "hand",
+        "leg",
+        "nose"
+      ],
+      "prompt": {
+        "en": "Tap the foot!",
+        "de": "Tippe auf den Fuß!",
+        "ru": "Нажми на ступню!"
+      },
+      "success": {
+        "en": "Yes! foot!",
+        "de": "Ja! Fuß!",
+        "ru": "Да! Ступня!"
+      },
+      "retry": {
+        "en": "Almost. Look at the body again.",
+        "de": "Fast. Schau den Körper noch einmal an.",
+        "ru": "Почти. Посмотри на человечка ещё раз."
+      },
+      "joke": {
+        "en": "Good thing robots have spare parts. Children are much more special!",
+        "de": "Gut, dass Roboter Ersatzteile haben. Kinder sind viel besonderer!",
+        "ru": "Хорошо, что у роботов есть запчасти. А дети намного особенные!"
+      },
+      "speechPrompt": {
+        "en": "Say: foot.",
+        "de": "Sag: Fuß.",
+        "ru": "Скажи: ступня."
+      },
+      "speechSuccess": {
+        "en": "Excellent body word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    },
+    {
+      "word": "nose",
+      "mode": "BODY_TAP",
+      "distractors": [
+        "head",
+        "hand",
+        "foot"
+      ],
+      "prompt": {
+        "en": "Find the nose!",
+        "de": "Finde die Nase!",
+        "ru": "Найди нос!"
+      },
+      "success": {
+        "en": "Yes! nose!",
+        "de": "Ja! Nase!",
+        "ru": "Да! Нос!"
+      },
+      "retry": {
+        "en": "Almost. Look at the body again.",
+        "de": "Fast. Schau den Körper noch einmal an.",
+        "ru": "Почти. Посмотри на человечка ещё раз."
+      },
+      "joke": {
+        "en": "Good thing robots have spare parts. Children are much more special!",
+        "de": "Gut, dass Roboter Ersatzteile haben. Kinder sind viel besonderer!",
+        "ru": "Хорошо, что у роботов есть запчасти. А дети намного особенные!"
+      },
+      "speechPrompt": {
+        "en": "Say: nose.",
+        "de": "Sag: Nase.",
+        "ru": "Скажи: нос."
+      },
+      "speechSuccess": {
+        "en": "Excellent body word!",
+        "de": "Sehr gut gesagt!",
+        "ru": "Отлично сказано!"
+      }
+    }
+  ]
+}

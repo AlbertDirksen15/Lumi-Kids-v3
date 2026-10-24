@@ -1,0 +1,254 @@
+{
+  "id": "animals",
+  "title": {
+    "en": "Animal Adventure",
+    "de": "Tier-Abenteuer",
+    "ru": "Приключение с животными"
+  },
+  "intro": {
+    "en": "Hi! Let's wake up the animal park. Listen, look, and catch the right animal!",
+    "de": "Hallo! Wir wecken den Tierpark auf. Hör zu, schau hin und fang das richtige Tier!",
+    "ru": "Привет! Разбудим парк животных. Слушай, смотри и лови нужное животное!"
+  },
+  "closing": {
+    "en": "The animals are happy. You were a brilliant helper!",
+    "de": "Die Tiere sind glücklich. Du warst ein toller Helfer!",
+    "ru": "Животные довольны. Ты отлично им помог!"
+  },
+  "rounds": [
+    {
+      "word": "dog",
+      "mode": "MOVING_TAP",
+      "distractors": [
+        "cat",
+        "rabbit",
+        "duck"
+      ],
+      "prompt": {
+        "en": "Find the dog!",
+        "de": "Finde den Hund!",
+        "ru": "Найди собаку!"
+      },
+      "success": {
+        "en": "Yes! Dog! Great catch!",
+        "de": "Ja! Hund! Super gefangen!",
+        "ru": "Да! Собака! Отлично поймал!"
+      },
+      "retry": {
+        "en": "Oops, that one escaped. Try the dog again.",
+        "de": "Hoppla, das Tier ist entwischt. Versuch den Hund noch einmal.",
+        "ru": "Ой, этот убежал. Попробуй ещё раз найти собаку."
+      },
+      "joke": {
+        "en": "That dog is faster than my antenna!",
+        "de": "Der Hund ist schneller als meine Antenne!",
+        "ru": "Эта собака быстрее моей антенны!"
+      },
+      "speechPrompt": {
+        "en": "Say: dog.",
+        "de": "Sag: Hund.",
+        "ru": "Скажи: собака."
+      },
+      "speechSuccess": {
+        "en": "I heard it! Dog!",
+        "de": "Ich hab's gehört! Hund!",
+        "ru": "Я услышал! Собака!"
+      }
+    },
+    {
+      "word": "cat",
+      "mode": "MOVING_TAP",
+      "distractors": [
+        "dog",
+        "rabbit",
+        "bear"
+      ],
+      "prompt": {
+        "en": "Can you catch the cat?",
+        "de": "Kannst du die Katze fangen?",
+        "ru": "Сможешь поймать кошку?"
+      },
+      "success": {
+        "en": "Meow! Cat! You got it!",
+        "de": "Miau! Katze! Du hast sie!",
+        "ru": "Мяу! Кошка! Получилось!"
+      },
+      "retry": {
+        "en": "Almost. The cat is still hiding.",
+        "de": "Fast. Die Katze versteckt sich noch.",
+        "ru": "Почти. Кошка ещё прячется."
+      },
+      "joke": {
+        "en": "I would chase the cat, but my robot feet squeak.",
+        "de": "Ich würde die Katze jagen, aber meine Roboterfüße quietschen.",
+        "ru": "Я бы побежал за кошкой, но мои робот-ботинки скрипят."
+      },
+      "speechPrompt": {
+        "en": "Say: cat.",
+        "de": "Sag: Katze.",
+        "ru": "Скажи: кошка."
+      },
+      "speechSuccess": {
+        "en": "Perfect! Cat!",
+        "de": "Perfekt! Katze!",
+        "ru": "Отлично! Кошка!"
+      }
+    },
+    {
+      "word": "rabbit",
+      "mode": "MOVING_TAP",
+      "distractors": [
+        "duck",
+        "cat",
+        "lion"
+      ],
+      "prompt": {
+        "en": "Find the rabbit. It likes to hop!",
+        "de": "Finde das Kaninchen. Es hüpft gern!",
+        "ru": "Найди кролика. Он любит прыгать!"
+      },
+      "success": {
+        "en": "Hop, hop! Rabbit! Wonderful!",
+        "de": "Hopp, hopp! Kaninchen! Wunderbar!",
+        "ru": "Прыг-прыг! Кролик! Здорово!"
+      },
+      "retry": {
+        "en": "Not that one. Look for the long ears.",
+        "de": "Nicht dieses. Such nach den langen Ohren.",
+        "ru": "Не этот. Ищи длинные ушки."
+      },
+      "joke": {
+        "en": "If I had rabbit ears, my antenna would be jealous.",
+        "de": "Mit Kaninchenohren wäre meine Antenne eifersüchtig.",
+        "ru": "Если бы у меня были кроличьи уши, моя антенна бы ревновала."
+      },
+      "speechPrompt": {
+        "en": "Say: rabbit.",
+        "de": "Sag: Kaninchen.",
+        "ru": "Скажи: кролик."
+      },
+      "speechSuccess": {
+        "en": "Great rabbit! I heard you.",
+        "de": "Super Kaninchen! Ich habe dich gehört.",
+        "ru": "Отличный кролик! Я тебя услышал."
+      }
+    },
+    {
+      "word": "bear",
+      "mode": "MOVING_TAP",
+      "distractors": [
+        "lion",
+        "dog",
+        "rabbit"
+      ],
+      "prompt": {
+        "en": "Where is the bear?",
+        "de": "Wo ist der Bär?",
+        "ru": "Где медведь?"
+      },
+      "success": {
+        "en": "Big bear! Great job!",
+        "de": "Großer Bär! Super gemacht!",
+        "ru": "Большой медведь! Молодец!"
+      },
+      "retry": {
+        "en": "Close! The bear is bigger.",
+        "de": "Knapp! Der Bär ist größer.",
+        "ru": "Близко! Медведь побольше."
+      },
+      "joke": {
+        "en": "I asked the bear for honey. He asked for my battery.",
+        "de": "Ich wollte Honig vom Bären. Er wollte meinen Akku.",
+        "ru": "Я попросил у медведя мёд. А он попросил мою батарейку."
+      },
+      "speechPrompt": {
+        "en": "Say: bear.",
+        "de": "Sag: Bär.",
+        "ru": "Скажи: медведь."
+      },
+      "speechSuccess": {
+        "en": "Yes, bear! Strong voice!",
+        "de": "Ja, Bär! Starke Stimme!",
+        "ru": "Да, медведь! Сильный голос!"
+      }
+    },
+    {
+      "word": "duck",
+      "mode": "MOVING_TAP",
+      "distractors": [
+        "dog",
+        "cat",
+        "bear"
+      ],
+      "prompt": {
+        "en": "Find the duck. Quack, quack!",
+        "de": "Finde die Ente. Quak, quak!",
+        "ru": "Найди утку. Кря-кря!"
+      },
+      "success": {
+        "en": "Quack! Duck! Excellent!",
+        "de": "Quak! Ente! Klasse!",
+        "ru": "Кря! Утка! Отлично!"
+      },
+      "retry": {
+        "en": "Oops. Listen for quack-quack.",
+        "de": "Hoppla. Hör auf Quak-quak.",
+        "ru": "Ой. Слушай: кря-кря."
+      },
+      "joke": {
+        "en": "I tried to quack once. The ducks laughed at me.",
+        "de": "Ich habe einmal gequakt. Die Enten haben gelacht.",
+        "ru": "Однажды я попробовал крякать. Утки надо мной смеялись."
+      },
+      "speechPrompt": {
+        "en": "Say: duck.",
+        "de": "Sag: Ente.",
+        "ru": "Скажи: утка."
+      },
+      "speechSuccess": {
+        "en": "Duck! Nicely said!",
+        "de": "Ente! Schön gesagt!",
+        "ru": "Утка! Хорошо сказал!"
+      }
+    },
+    {
+      "word": "lion",
+      "mode": "MOVING_TAP",
+      "distractors": [
+        "bear",
+        "rabbit",
+        "dog"
+      ],
+      "prompt": {
+        "en": "Last one! Find the lion!",
+        "de": "Der letzte! Finde den Löwen!",
+        "ru": "Последний! Найди льва!"
+      },
+      "success": {
+        "en": "Roar! Lion! You did it!",
+        "de": "Roar! Löwe! Geschafft!",
+        "ru": "Р-р-р! Лев! Получилось!"
+      },
+      "retry": {
+        "en": "Not yet. Look for the big mane.",
+        "de": "Noch nicht. Such nach der großen Mähne.",
+        "ru": "Пока нет. Ищи большую гриву."
+      },
+      "joke": {
+        "en": "My roar sounds like a tiny toaster. Yours can be better!",
+        "de": "Mein Brüllen klingt wie ein kleiner Toaster. Deins kann besser sein!",
+        "ru": "Мой рык похож на маленький тостер. У тебя получится лучше!"
+      },
+      "speechPrompt": {
+        "en": "Say: lion.",
+        "de": "Sag: Löwe.",
+        "ru": "Скажи: лев."
+      },
+      "speechSuccess": {
+        "en": "Lion! What a roar!",
+        "de": "Löwe! Was für ein Brüllen!",
+        "ru": "Лев! Вот это рык!"
+      }
+    }
+  ]
+}
