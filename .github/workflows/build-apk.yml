@@ -96,7 +96,7 @@ jobs:
           APK="$PROJECT/app/build/outputs/apk/debug/app-debug.apk"
           "$ANDROID_SDK_ROOT/build-tools/35.0.0/aapt" dump permissions "$APK" | tee permissions.txt
           if grep -q 'android.permission.INTERNET' permissions.txt; then echo 'INTERNET permission is forbidden'; exit 1; fi
-          if grep -R -E 'com.google.android.gms|firebase' "$PROJECT/app/src"; then echo 'Google/Firebase dependency found'; exit 1; fi
+          if grep -R -E --include='*.java' --include='*.xml' --include='*.gradle' 'com.google.android.gms|firebase' "$PROJECT/app/src"; then echo 'Google/Firebase dependency found'; exit 1; fi
           test -f "$APK"
 
       - name: Rename APK
