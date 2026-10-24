@@ -63,7 +63,6 @@ jobs:
           curl -L --fail --retry 3 "$base/en/en_US/amy/medium/en_US-amy-medium.onnx?download=true" -o "$PROJECT/.voice-models/en_US-amy-medium.onnx"
           curl -L --fail --retry 3 "$base/en/en_US/amy/medium/en_US-amy-medium.onnx.json?download=true" -o "$PROJECT/.voice-models/en_US-amy-medium.onnx.json"
           curl -L --fail --retry 3 "$base/de/de_DE/ramona/low/de_DE-ramona-low.onnx?download=true" -o "$PROJECT/.voice-models/de_DE-ramona-low.onnx"
-          curl -L --fail --retry 3 "$base/de/de_DE/ramona/low/de_DE-ramona-low.onnx?download=true" -o "$PROJECT/.voice-models/de_DE-ramona-low.onnx"
           curl -L --fail --retry 3 "$base/de/de_DE/ramona/low/de_DE-ramona-low.onnx.json?download=true" -o "$PROJECT/.voice-models/de_DE-ramona-low.onnx.json"
           curl -L --fail --retry 3 "$base/ru/ru_RU/irina/medium/ru_RU-irina-medium.onnx?download=true" -o "$PROJECT/.voice-models/ru_RU-irina-medium.onnx"
           curl -L --fail --retry 3 "$base/ru/ru_RU/irina/medium/ru_RU-irina-medium.onnx.json?download=true" -o "$PROJECT/.voice-models/ru_RU-irina-medium.onnx.json"
